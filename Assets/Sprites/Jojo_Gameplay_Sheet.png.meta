@@ -1,0 +1,4368 @@
+fileFormatVersion: 2
+guid: 1f5509681ce8545438ed1c7d90073413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5455410621882886200
+    second: Jojo_Gameplay_Sheet_0
+  - first:
+      213: -4092233692106252575
+    second: Jojo_Gameplay_Sheet_1
+  - first:
+      213: -4618655449538704315
+    second: Jojo_Gameplay_Sheet_2
+  - first:
+      213: 5945656238245549722
+    second: Jojo_Gameplay_Sheet_3
+  - first:
+      213: 9062883012285497043
+    second: Jojo_Gameplay_Sheet_4
+  - first:
+      213: -1514756087188022212
+    second: Jojo_Gameplay_Sheet_5
+  - first:
+      213: -6708258808139882877
+    second: Jojo_Gameplay_Sheet_6
+  - first:
+      213: 8369427352199772509
+    second: Jojo_Gameplay_Sheet_7
+  - first:
+      213: 3134121294587570342
+    second: Jojo_Gameplay_Sheet_8
+  - first:
+      213: -5063577437494865036
+    second: Jojo_Gameplay_Sheet_9
+  - first:
+      213: 232070673532108177
+    second: Jojo_Gameplay_Sheet_10
+  - first:
+      213: -3829371584097586021
+    second: Jojo_Gameplay_Sheet_11
+  - first:
+      213: -5264357696166108216
+    second: Jojo_Gameplay_Sheet_12
+  - first:
+      213: -7776617592525215986
+    second: Jojo_Gameplay_Sheet_13
+  - first:
+      213: -2431522991318494578
+    second: Jojo_Gameplay_Sheet_14
+  - first:
+      213: 761660350878755112
+    second: Jojo_Gameplay_Sheet_15
+  - first:
+      213: 6067696541380073150
+    second: Jojo_Gameplay_Sheet_16
+  - first:
+      213: 1020837306612843956
+    second: Jojo_Gameplay_Sheet_17
+  - first:
+      213: -2159162015251786516
+    second: Jojo_Gameplay_Sheet_18
+  - first:
+      213: 99467182680273996
+    second: Jojo_Gameplay_Sheet_19
+  - first:
+      213: 4317449685660733237
+    second: Jojo_Gameplay_Sheet_20
+  - first:
+      213: 2952461767608445350
+    second: Jojo_Gameplay_Sheet_21
+  - first:
+      213: -1304800308991492751
+    second: Jojo_Gameplay_Sheet_22
+  - first:
+      213: 7155294452525201711
+    second: Jojo_Gameplay_Sheet_23
+  - first:
+      213: 1372037412118084753
+    second: Jojo_Gameplay_Sheet_24
+  - first:
+      213: 186475260890368167
+    second: Jojo_Gameplay_Sheet_25
+  - first:
+      213: 4345031559315234817
+    second: Jojo_Gameplay_Sheet_26
+  - first:
+      213: -4900166592109996316
+    second: Jojo_Gameplay_Sheet_27
+  - first:
+      213: 2379930910606838088
+    second: Jojo_Gameplay_Sheet_28
+  - first:
+      213: -6024360523028857331
+    second: Jojo_Gameplay_Sheet_29
+  - first:
+      213: -8359093238673789848
+    second: Jojo_Gameplay_Sheet_30
+  - first:
+      213: -279116013540080919
+    second: Jojo_Gameplay_Sheet_31
+  - first:
+      213: 4569097680860376777
+    second: Jojo_Gameplay_Sheet_32
+  - first:
+      213: -294860043577790609
+    second: Jojo_Gameplay_Sheet_33
+  - first:
+      213: 1797912722381301146
+    second: Jojo_Gameplay_Sheet_34
+  - first:
+      213: 3095438871887333438
+    second: Jojo_Gameplay_Sheet_35
+  - first:
+      213: -5913651905118052752
+    second: Jojo_Gameplay_Sheet_36
+  - first:
+      213: 3319981025402742289
+    second: Jojo_Gameplay_Sheet_37
+  - first:
+      213: 3777897682542962793
+    second: Jojo_Gameplay_Sheet_38
+  - first:
+      213: 2561231232077541380
+    second: Jojo_Gameplay_Sheet_39
+  - first:
+      213: -2544474326496907289
+    second: Jojo_Gameplay_Sheet_40
+  - first:
+      213: -538066021352610719
+    second: Jojo_Gameplay_Sheet_41
+  - first:
+      213: -5272623835270513314
+    second: Jojo_Gameplay_Sheet_42
+  - first:
+      213: -2094090443355692096
+    second: Jojo_Gameplay_Sheet_43
+  - first:
+      213: 418476639174161170
+    second: Jojo_Gameplay_Sheet_44
+  - first:
+      213: 1399012789430742789
+    second: Jojo_Gameplay_Sheet_45
+  - first:
+      213: -6373760866630359502
+    second: Jojo_Gameplay_Sheet_46
+  - first:
+      213: 1653168753649953884
+    second: Jojo_Gameplay_Sheet_47
+  - first:
+      213: 1365319978694677799
+    second: Jojo_Gameplay_Sheet_48
+  - first:
+      213: -446687247159261178
+    second: Jojo_Gameplay_Sheet_49
+  - first:
+      213: -8190373592937468642
+    second: Jojo_Gameplay_Sheet_50
+  - first:
+      213: 4254568364745420428
+    second: Jojo_Gameplay_Sheet_51
+  - first:
+      213: -5828450401907858713
+    second: Jojo_Gameplay_Sheet_52
+  - first:
+      213: 7655619200421072029
+    second: Jojo_Gameplay_Sheet_53
+  - first:
+      213: -1727579807995122799
+    second: Jojo_Gameplay_Sheet_54
+  - first:
+      213: -1288201378039174624
+    second: Jojo_Gameplay_Sheet_55
+  - first:
+      213: 805776624874605890
+    second: Jojo_Gameplay_Sheet_56
+  - first:
+      213: -6090037075661519282
+    second: Jojo_Gameplay_Sheet_57
+  - first:
+      213: -4952699501812638134
+    second: Jojo_Gameplay_Sheet_58
+  - first:
+      213: 6079714896820009400
+    second: Jojo_Gameplay_Sheet_59
+  - first:
+      213: 2902418830177343717
+    second: Jojo_Gameplay_Sheet_60
+  - first:
+      213: -2399500534161678794
+    second: Jojo_Gameplay_Sheet_61
+  - first:
+      213: -1115889793294584562
+    second: Jojo_Gameplay_Sheet_62
+  - first:
+      213: 1454027211638308879
+    second: Jojo_Gameplay_Sheet_63
+  - first:
+      213: 6624501360061482063
+    second: Jojo_Gameplay_Sheet_64
+  - first:
+      213: -5878455364121507332
+    second: Jojo_Gameplay_Sheet_65
+  - first:
+      213: -8371296075499031108
+    second: Jojo_Gameplay_Sheet_66
+  - first:
+      213: 5890817579582097051
+    second: Jojo_Gameplay_Sheet_67
+  - first:
+      213: -856018754337909291
+    second: Jojo_Gameplay_Sheet_68
+  - first:
+      213: 597071278011676777
+    second: Jojo_Gameplay_Sheet_69
+  - first:
+      213: -3843006984695371535
+    second: Jojo_Gameplay_Sheet_70
+  - first:
+      213: -3726905673335633517
+    second: Jojo_Gameplay_Sheet_71
+  - first:
+      213: 5391229174657004905
+    second: Jojo_Gameplay_Sheet_72
+  - first:
+      213: 2061911464280651073
+    second: Jojo_Gameplay_Sheet_73
+  - first:
+      213: 8210897001352940568
+    second: Jojo_Gameplay_Sheet_74
+  - first:
+      213: -8452447267202246905
+    second: Jojo_Gameplay_Sheet_75
+  - first:
+      213: 6824639732288194584
+    second: Jojo_Gameplay_Sheet_76
+  - first:
+      213: -6504444597329864649
+    second: Jojo_Gameplay_Sheet_77
+  - first:
+      213: -8228319502905097403
+    second: Jojo_Gameplay_Sheet_78
+  - first:
+      213: -6859423317988043537
+    second: Jojo_Gameplay_Sheet_79
+  - first:
+      213: -8868000225486519601
+    second: Jojo_Gameplay_Sheet_80
+  - first:
+      213: -8704079053537075895
+    second: Jojo_Gameplay_Sheet_81
+  - first:
+      213: 5284503718108310131
+    second: Jojo_Gameplay_Sheet_82
+  - first:
+      213: 2557763277380563780
+    second: Jojo_Gameplay_Sheet_83
+  - first:
+      213: -7145390507224315395
+    second: Jojo_Gameplay_Sheet_84
+  - first:
+      213: -8675815966756738541
+    second: Jojo_Gameplay_Sheet_85
+  - first:
+      213: 7685913803491554905
+    second: Jojo_Gameplay_Sheet_86
+  - first:
+      213: -1113240403734108511
+    second: Jojo_Gameplay_Sheet_87
+  - first:
+      213: 5615711734756182896
+    second: Jojo_Gameplay_Sheet_88
+  - first:
+      213: 4370505265331231322
+    second: Jojo_Gameplay_Sheet_89
+  - first:
+      213: -3100709732207841668
+    second: Jojo_Gameplay_Sheet_90
+  - first:
+      213: -4526774314178713913
+    second: Jojo_Gameplay_Sheet_91
+  - first:
+      213: 8476468481539403100
+    second: Jojo_Gameplay_Sheet_92
+  - first:
+      213: 6599968865977775549
+    second: Jojo_Gameplay_Sheet_93
+  - first:
+      213: 3909515502477479545
+    second: Jojo_Gameplay_Sheet_94
+  - first:
+      213: -6232920855162427527
+    second: Jojo_Gameplay_Sheet_95
+  - first:
+      213: 5397524008348406106
+    second: Jojo_Gameplay_Sheet_96
+  - first:
+      213: -2527462067910101530
+    second: Jojo_Gameplay_Sheet_97
+  - first:
+      213: -8232232567172387787
+    second: Jojo_Gameplay_Sheet_98
+  - first:
+      213: 4424396493561717609
+    second: Jojo_Gameplay_Sheet_99
+  - first:
+      213: -699462200176044542
+    second: Jojo_Gameplay_Sheet_100
+  - first:
+      213: 6567214213070434758
+    second: Jojo_Gameplay_Sheet_101
+  - first:
+      213: 7995548574156019928
+    second: Jojo_Gameplay_Sheet_102
+  - first:
+      213: -5396170000998516255
+    second: Jojo_Gameplay_Sheet_103
+  - first:
+      213: 2610467112632715694
+    second: Jojo_Gameplay_Sheet_104
+  - first:
+      213: 2605791152794140122
+    second: Jojo_Gameplay_Sheet_105
+  - first:
+      213: -5451753511715286762
+    second: Jojo_Gameplay_Sheet_106
+  - first:
+      213: -4113804105254347655
+    second: Jojo_Gameplay_Sheet_107
+  - first:
+      213: -7562010549308768215
+    second: Jojo_Gameplay_Sheet_108
+  - first:
+      213: 2803837915078274713
+    second: Jojo_Gameplay_Sheet_109
+  - first:
+      213: 2736414314500901465
+    second: Jojo_Gameplay_Sheet_110
+  - first:
+      213: 7533745394725661798
+    second: Jojo_Gameplay_Sheet_111
+  - first:
+      213: 459722824595472175
+    second: Jojo_Gameplay_Sheet_112
+  - first:
+      213: -6556427761847736035
+    second: Jojo_Gameplay_Sheet_113
+  - first:
+      213: -600022868620070065
+    second: Jojo_Gameplay_Sheet_114
+  - first:
+      213: -887072727138920268
+    second: Jojo_Gameplay_Sheet_115
+  - first:
+      213: 5797025663179745675
+    second: Jojo_Gameplay_Sheet_116
+  - first:
+      213: -617511903701285308
+    second: Jojo_Gameplay_Sheet_117
+  - first:
+      213: -3918350540188000251
+    second: Jojo_Gameplay_Sheet_118
+  - first:
+      213: 682404591121585118
+    second: Jojo_Gameplay_Sheet_119
+  - first:
+      213: 8851054476970680939
+    second: Jojo_Gameplay_Sheet_120
+  - first:
+      213: 4729557636496951474
+    second: Jojo_Gameplay_Sheet_121
+  - first:
+      213: 9208844107476306804
+    second: Jojo_Gameplay_Sheet_122
+  - first:
+      213: -2271747061127376174
+    second: Jojo_Gameplay_Sheet_123
+  - first:
+      213: 4616409052859036346
+    second: Jojo_Gameplay_Sheet_124
+  - first:
+      213: -246968943784282851
+    second: Jojo_Gameplay_Sheet_125
+  - first:
+      213: -8265607415697524598
+    second: Jojo_Gameplay_Sheet_126
+  - first:
+      213: 4692441711443495495
+    second: Jojo_Gameplay_Sheet_127
+  - first:
+      213: 3907711607830480689
+    second: Jojo_Gameplay_Sheet_128
+  - first:
+      213: -5536701146189259485
+    second: Jojo_Gameplay_Sheet_129
+  - first:
+      213: 4334713929959396254
+    second: Jojo_Gameplay_Sheet_130
+  - first:
+      213: -7087922337236052944
+    second: Jojo_Gameplay_Sheet_131
+  - first:
+      213: 6013751185443797887
+    second: Jojo_Gameplay_Sheet_132
+  - first:
+      213: 4346582407025078307
+    second: Jojo_Gameplay_Sheet_133
+  - first:
+      213: -6152289253517152080
+    second: Jojo_Gameplay_Sheet_134
+  - first:
+      213: 1969704552661909887
+    second: Jojo_Gameplay_Sheet_135
+  - first:
+      213: 4322532156763562018
+    second: Jojo_Gameplay_Sheet_136
+  - first:
+      213: 3860218554356375174
+    second: Jojo_Gameplay_Sheet_137
+  - first:
+      213: -965703085944104724
+    second: Jojo_Gameplay_Sheet_138
+  - first:
+      213: -308674049522706592
+    second: Jojo_Gameplay_Sheet_139
+  - first:
+      213: -8368094705378881801
+    second: Jojo_Gameplay_Sheet_140
+  - first:
+      213: 2599759514462472207
+    second: Jojo_Gameplay_Sheet_141
+  - first:
+      213: -5523943089527741640
+    second: Jojo_Gameplay_Sheet_142
+  - first:
+      213: 2648146629853721774
+    second: Jojo_Gameplay_Sheet_143
+  - first:
+      213: 6639454587473889720
+    second: Jojo_Gameplay_Sheet_144
+  - first:
+      213: -2646488904791313816
+    second: Jojo_Gameplay_Sheet_145
+  - first:
+      213: 7077862590896567213
+    second: Jojo_Gameplay_Sheet_146
+  - first:
+      213: -8242871061239833631
+    second: Jojo_Gameplay_Sheet_147
+  - first:
+      213: 5601434906817589032
+    second: Jojo_Gameplay_Sheet_148
+  - first:
+      213: -1743620256843773544
+    second: Jojo_Gameplay_Sheet_149
+  - first:
+      213: 5732672992688706557
+    second: Jojo_Gameplay_Sheet_150
+  - first:
+      213: -2307701386498300748
+    second: Jojo_Gameplay_Sheet_151
+  - first:
+      213: 6711504461424129863
+    second: Jojo_Gameplay_Sheet_152
+  - first:
+      213: 1091947022486709838
+    second: Jojo_Gameplay_Sheet_153
+  - first:
+      213: 3724405711054005227
+    second: Jojo_Gameplay_Sheet_154
+  - first:
+      213: 3445744721763464033
+    second: Jojo_Gameplay_Sheet_155
+  - first:
+      213: -7601479132030590556
+    second: Jojo_Gameplay_Sheet_156
+  - first:
+      213: -6131724329694264118
+    second: Jojo_Gameplay_Sheet_157
+  - first:
+      213: -4395569131740951308
+    second: Jojo_Gameplay_Sheet_158
+  - first:
+      213: -5107772195303794865
+    second: Jojo_Gameplay_Sheet_159
+  - first:
+      213: 3279971578921954456
+    second: Jojo_Gameplay_Sheet_160
+  - first:
+      213: 4665040714015028687
+    second: Jojo_Gameplay_Sheet_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 277
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838e83d7e0385bb40800000000000000
+      internalID: 5455410621882886200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1293
+        width: 215
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee1f1c73277537c0800000000000000
+      internalID: -4092233692106252575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1291
+        width: 301
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cc25ed65d37efb0800000000000000
+      internalID: -4618655449538704315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1479
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961635e8d6338250800000000000000
+      internalID: 5945656238245549722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1497
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def23c1514d5cd70800000000000000
+      internalID: 9062883012285497043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1527
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c1ccd3d518afae0800000000000000
+      internalID: -1514756087188022212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1515
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38edf67e72a77e2a0800000000000000
+      internalID: -6708258808139882877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1485
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d593e4d65dd262470800000000000000
+      internalID: 8369427352199772509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1510
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a821ee46b2ae7b20800000000000000
+      internalID: 3134121294587570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1273
+        width: 231
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4739f69062f8ab9b0800000000000000
+      internalID: -5063577437494865036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1503
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dbaaa4c0b783300800000000000000
+      internalID: 232070673532108177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9473e845d65bdac0800000000000000
+      internalID: -3829371584097586021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1463
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ec6d219e31f6b0800000000000000
+      internalID: -5264357696166108216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1438
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e072b7b7087e31490800000000000000
+      internalID: -7776617592525215986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1413
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82144fd8be714ed0800000000000000
+      internalID: -2431522991318494578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1413
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a0adbd06f19a00800000000000000
+      internalID: 761660350878755112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1375
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb653d93bd9c43450800000000000000
+      internalID: 6067696541380073150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5002a2f1eba2e00800000000000000
+      internalID: 1020837306612843956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1375
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4966c369d1902e0800000000000000
+      internalID: -2159162015251786516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1395
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44777a20e0616100800000000000000
+      internalID: 99467182680273996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1361
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f0e614d99aaeb30800000000000000
+      internalID: 4317449685660733237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1297
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92937b55049f820800000000000000
+      internalID: 2952461767608445350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1029
+        width: 267
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfdb7380b64ede0800000000000000
+      internalID: -1304800308991492751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1289
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29761ae466bc4360800000000000000
+      internalID: 7155294452525201711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1310
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c38d7c1c47a0310800000000000000
+      internalID: 1372037412118084753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1318
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c4c4034e769200800000000000000
+      internalID: 186475260890368167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1289
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a8d6ae27ac4c30800000000000000
+      internalID: 4345031559315234817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 511
+        width: 281
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e61c09527c1ffbb0800000000000000
+      internalID: -4900166592109996316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1283
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84941b4cd86370120800000000000000
+      internalID: 2379930910606838088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1235
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e7af1d50c256ca0800000000000000
+      internalID: -6024360523028857331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1035
+        width: 209
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86caa70ecf88efb80800000000000000
+      internalID: -8359093238673789848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 283
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e202d9e671602cf0800000000000000
+      internalID: -279116013540080919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1245
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce6eb3f122b86f30800000000000000
+      internalID: 4569097680860376777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1239
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe6144a5278ebf0800000000000000
+      internalID: -294860043577790609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1205
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9561b2681873f810800000000000000
+      internalID: 1797912722381301146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1243
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c7cee04535fa20800000000000000
+      internalID: 3095438871887333438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1211
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e50269cec7eeda0800000000000000
+      internalID: -5913651905118052752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1201
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116ea201721f21e20800000000000000
+      internalID: 3319981025402742289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1173
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968aeb51de9cd6430800000000000000
+      internalID: 3777897682542962793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1191
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003e9f4c325b8320800000000000000
+      internalID: 2561231232077541380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1187
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efec0dc41630bcd0800000000000000
+      internalID: -2544474326496907289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164e19bedc76888f0800000000000000
+      internalID: -538066021352610719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1166
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7170be80e3d6b0800000000000000
+      internalID: -5272623835270513314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1141
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36e3436db40f2e0800000000000000
+      internalID: -2094090443355692096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21376c0494abec500800000000000000
+      internalID: 418476639174161170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1125
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f6f3e38ba4a6310800000000000000
+      internalID: 1399012789430742789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1065
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236263de24adb87a0800000000000000
+      internalID: -6373760866630359502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1085
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca41bf83c31f610800000000000000
+      internalID: 1653168753649953884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1075
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72517de694792f210800000000000000
+      internalID: 1365319978694677799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1035
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608006bb05c0dc9f0800000000000000
+      internalID: -446687247159261178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 931
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de8379c92f55e80800000000000000
+      internalID: -8190373592937468642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 775
+        width: 269
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee345d2634b0b30800000000000000
+      internalID: 4254568364745420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1033
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2ac4b6d3f2d1fa0800000000000000
+      internalID: -5828450401907858713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 453
+        width: 252
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c02c00a193e3a60800000000000000
+      internalID: 7655619200421072029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1033
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b205751576608e0800000000000000
+      internalID: -1727579807995122799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1019
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a6ecefba36f1ee0800000000000000
+      internalID: -1288201378039174624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1023
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc6f53291be2b00800000000000000
+      internalID: 805776624874605890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1013
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e468c3ccb87db7ba0800000000000000
+      internalID: -6090037075661519282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e143b2b0a744bb0800000000000000
+      internalID: -4952699501812638134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 991
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b97b98ac7c7f5450800000000000000
+      internalID: 6079714896820009400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 999
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e810226c86774820800000000000000
+      internalID: 2902418830177343717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 979
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63edeee2af243bed0800000000000000
+      internalID: -2399500534161678794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 937
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05313e25209380f0800000000000000
+      internalID: -1115889793294584562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 935
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0004739b0ebd2410800000000000000
+      internalID: 1454027211638308879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 865
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f448e8c83e4feeb50800000000000000
+      internalID: 6624501360061482063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 795
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf94c81edf78b6ea0800000000000000
+      internalID: -5878455364121507332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 789
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53246829e23db80800000000000000
+      internalID: -8371296075499031108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 775
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960e93b06360c150800000000000000
+      internalID: 5890817579582097051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 715
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5dd927a7fce14f0800000000000000
+      internalID: -856018754337909291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 765
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687977f929394800800000000000000
+      internalID: 597071278011676777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 769
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f823ef2285eaaac0800000000000000
+      internalID: -3843006984695371535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 727
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399017d390f574cc0800000000000000
+      internalID: -3726905673335633517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 765
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9653722de5e71da40800000000000000
+      internalID: 5391229174657004905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 509
+        width: 269
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f0c26d816d9c10800000000000000
+      internalID: 2061911464280651073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 775
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c46fcc157f2f170800000000000000
+      internalID: 8210897001352940568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 749
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70750b35effd2ba80800000000000000
+      internalID: -8452447267202246905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 761
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180e039dadf5be50800000000000000
+      internalID: 6824639732288194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 758
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d1fac9129bb5a0800000000000000
+      internalID: -6504444597329864649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 709
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434ce2f1032fcd80800000000000000
+      internalID: -8228319502905097403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 737
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe49a47c5de6ec0a0800000000000000
+      internalID: -6859423317988043537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2cac397c88ee480800000000000000
+      internalID: -8868000225486519601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 737
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d110d8736e43780800000000000000
+      internalID: -8704079053537075895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 719
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa3141224565940800000000000000
+      internalID: 5284503718108310131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 657
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443becf26200f7320800000000000000
+      internalID: 2557763277380563780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 727
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9427b013976dc90800000000000000
+      internalID: -7145390507224315395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 725
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6dcc385f499780800000000000000
+      internalID: -8675815966756738541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 727
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b26fe1e9d9aa60800000000000000
+      internalID: 7685913803491554905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 725
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e0d140c9fc80f0800000000000000
+      internalID: -1113240403734108511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 259
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b8227c1140fed40800000000000000
+      internalID: 5615711734756182896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 707
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ada05026727ac30800000000000000
+      internalID: 4370505265331231322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 721
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea7244de018f4d0800000000000000
+      internalID: -3100709732207841668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 707
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e301cebaad21c0800000000000000
+      internalID: -4526774314178713913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 687
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d63f77c2772a570800000000000000
+      internalID: 8476468481539403100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 688
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db53e3927bcc79b50800000000000000
+      internalID: 6599968865977775549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 683
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e8d01d2a3614630800000000000000
+      internalID: 3909515502477479545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 637
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776be271873089a0800000000000000
+      internalID: -6232920855162427527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 629
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51df300d7bd7ea40800000000000000
+      internalID: 5397524008348406106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 652
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b1fae3a6acecd0800000000000000
+      internalID: -2527462067910101530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca94da81c31cd80800000000000000
+      internalID: -8232232567172387787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ea306b2d966d30800000000000000
+      internalID: 4424396493561717609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 501
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20691b8b5d20b46f0800000000000000
+      internalID: -699462200176044542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 545
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1b5fd388e632b50800000000000000
+      internalID: 6567214213070434758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 229
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d853f2e015e5fe60800000000000000
+      internalID: 7995548574156019928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 275
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93dd669f3fc15b0800000000000000
+      internalID: -5396170000998516255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 499
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea90052120e3a3420800000000000000
+      internalID: 2610467112632715694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 517
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add76255f31a92420800000000000000
+      internalID: 2605791152794140122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 517
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d833d01b7754b0800000000000000
+      internalID: -5451753511715286762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 511
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c55ce46f4d8e6c0800000000000000
+      internalID: -4113804105254347655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 476
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c1bc78775e0790800000000000000
+      internalID: -7562010549308768215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 255
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e23087abb39e620800000000000000
+      internalID: 2803837915078274713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 493
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ace162252b9f520800000000000000
+      internalID: 2736414314500901465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 477
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cabd0658d3d8860800000000000000
+      internalID: 7533745394725661798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 497
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff6272973416600800000000000000
+      internalID: 459722824595472175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 501
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d196e8320b3e205a0800000000000000
+      internalID: -6556427761847736035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 443
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433aca416a4ca7f0800000000000000
+      internalID: -600022868620070065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 219
+        width: 235
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b892f8fd0c70b3f0800000000000000
+      internalID: -887072727138920268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 483
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e6af602c237050800000000000000
+      internalID: 5797025663179745675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 477
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464f4ff1382e67f0800000000000000
+      internalID: -617511903701285308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 477
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50062aaa1f83f99c0800000000000000
+      internalID: -3918350540188000251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 391
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d5ee2c53687900800000000000000
+      internalID: 682404591121585118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e773e62345da70800000000000000
+      internalID: 8851054476970680939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 449
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b80324bc93c2a140800000000000000
+      internalID: 4729557636496951474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 429
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b031adce26ccf70800000000000000
+      internalID: 9208844107476306804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 449
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d217f985122970e0800000000000000
+      internalID: -2271747061127376174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 447
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab27f852397c01040800000000000000
+      internalID: 4616409052859036346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 429
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d153f2bdd07929cf0800000000000000
+      internalID: -246968943784282851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 406
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b38639d9aa4d80800000000000000
+      internalID: -8265607415697524598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 406
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ac0dbffd6ee1140800000000000000
+      internalID: 4692441711443495495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137086dd00bfa3630800000000000000
+      internalID: 3907711607830480689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 391
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d14e964afa923b0800000000000000
+      internalID: -5536701146189259485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93da2e5a5ff72c30800000000000000
+      internalID: 4334713929959396254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 393
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341d7d0034a2ad90800000000000000
+      internalID: -7087922337236052944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b36f747d2257350800000000000000
+      internalID: 6013751185443797887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 365
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32031b58ba9225c30800000000000000
+      internalID: 4346582407025078307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 343
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b038a8258dae9aa0800000000000000
+      internalID: -6152289253517152080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7102edcadbc55b10800000000000000
+      internalID: 1969704552661909887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 303
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22068164818bcfb30800000000000000
+      internalID: 4322532156763562018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 257
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e98c7a250429530800000000000000
+      internalID: 3860218554356375174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 273
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89dcbe8222992f0800000000000000
+      internalID: -965703085944104724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06751de569e57bbf0800000000000000
+      internalID: -308674049522706592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 241
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8017933e8edb80800000000000000
+      internalID: -8368094705378881801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 247
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084af81183341420800000000000000
+      internalID: 2599759514462472207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 257
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a935f6030753b0800000000000000
+      internalID: -5523943089527741640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 263
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43491545b10c420800000000000000
+      internalID: 2648146629853721774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 249
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b908bc15c4142c50800000000000000
+      internalID: 6639454587473889720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 245
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862b6efdc58c54bd0800000000000000
+      internalID: -2646488904791313816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da37a6bb68e993260800000000000000
+      internalID: 7077862590896567213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 235
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebd37141707b9d80800000000000000
+      internalID: -8242871061239833631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 251
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe55dbe5b4cbd40800000000000000
+      internalID: 5601434906817589032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 221
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899c6af4d9a6dc7e0800000000000000
+      internalID: -1743620256843773544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 227
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df39faeb6bb8e8f40800000000000000
+      internalID: 5732672992688706557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 231
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a712d0d569ffd0800000000000000
+      internalID: -2307701386498300748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 191
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74772a3afbd042d50800000000000000
+      internalID: 6711504461424129863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 187
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46add41800672f00800000000000000
+      internalID: 1091947022486709838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 195
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be36fcee24fbfa330800000000000000
+      internalID: 3724405711054005227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 137
+        width: 195
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163736f619eb1df20800000000000000
+      internalID: 3445744721763464033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 131
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a5c7f00f128690800000000000000
+      internalID: -7601479132030590556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 167
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac404fb953db7eaa0800000000000000
+      internalID: -6131724329694264118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 149
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc88e4d92dcff2c0800000000000000
+      internalID: -4395569131740951308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 268
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47dc41204c8d19b0800000000000000
+      internalID: -5107772195303794865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 133
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2503e5ccc48d20800000000000000
+      internalID: 3279971578921954456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jojo_Gameplay_Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 13
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b99d10dd8db040800000000000000
+      internalID: 4665040714015028687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jojo_Gameplay_Sheet_0: 5455410621882886200
+      Jojo_Gameplay_Sheet_1: -4092233692106252575
+      Jojo_Gameplay_Sheet_10: 232070673532108177
+      Jojo_Gameplay_Sheet_100: -699462200176044542
+      Jojo_Gameplay_Sheet_101: 6567214213070434758
+      Jojo_Gameplay_Sheet_102: 7995548574156019928
+      Jojo_Gameplay_Sheet_103: -5396170000998516255
+      Jojo_Gameplay_Sheet_104: 2610467112632715694
+      Jojo_Gameplay_Sheet_105: 2605791152794140122
+      Jojo_Gameplay_Sheet_106: -5451753511715286762
+      Jojo_Gameplay_Sheet_107: -4113804105254347655
+      Jojo_Gameplay_Sheet_108: -7562010549308768215
+      Jojo_Gameplay_Sheet_109: 2803837915078274713
+      Jojo_Gameplay_Sheet_11: -3829371584097586021
+      Jojo_Gameplay_Sheet_110: 2736414314500901465
+      Jojo_Gameplay_Sheet_111: 7533745394725661798
+      Jojo_Gameplay_Sheet_112: 459722824595472175
+      Jojo_Gameplay_Sheet_113: -6556427761847736035
+      Jojo_Gameplay_Sheet_114: -600022868620070065
+      Jojo_Gameplay_Sheet_115: -887072727138920268
+      Jojo_Gameplay_Sheet_116: 5797025663179745675
+      Jojo_Gameplay_Sheet_117: -617511903701285308
+      Jojo_Gameplay_Sheet_118: -3918350540188000251
+      Jojo_Gameplay_Sheet_119: 682404591121585118
+      Jojo_Gameplay_Sheet_12: -5264357696166108216
+      Jojo_Gameplay_Sheet_120: 8851054476970680939
+      Jojo_Gameplay_Sheet_121: 4729557636496951474
+      Jojo_Gameplay_Sheet_122: 9208844107476306804
+      Jojo_Gameplay_Sheet_123: -2271747061127376174
+      Jojo_Gameplay_Sheet_124: 4616409052859036346
+      Jojo_Gameplay_Sheet_125: -246968943784282851
+      Jojo_Gameplay_Sheet_126: -8265607415697524598
+      Jojo_Gameplay_Sheet_127: 4692441711443495495
+      Jojo_Gameplay_Sheet_128: 3907711607830480689
+      Jojo_Gameplay_Sheet_129: -5536701146189259485
+      Jojo_Gameplay_Sheet_13: -7776617592525215986
+      Jojo_Gameplay_Sheet_130: 4334713929959396254
+      Jojo_Gameplay_Sheet_131: -7087922337236052944
+      Jojo_Gameplay_Sheet_132: 6013751185443797887
+      Jojo_Gameplay_Sheet_133: 4346582407025078307
+      Jojo_Gameplay_Sheet_134: -6152289253517152080
+      Jojo_Gameplay_Sheet_135: 1969704552661909887
+      Jojo_Gameplay_Sheet_136: 4322532156763562018
+      Jojo_Gameplay_Sheet_137: 3860218554356375174
+      Jojo_Gameplay_Sheet_138: -965703085944104724
+      Jojo_Gameplay_Sheet_139: -308674049522706592
+      Jojo_Gameplay_Sheet_14: -2431522991318494578
+      Jojo_Gameplay_Sheet_140: -8368094705378881801
+      Jojo_Gameplay_Sheet_141: 2599759514462472207
+      Jojo_Gameplay_Sheet_142: -5523943089527741640
+      Jojo_Gameplay_Sheet_143: 2648146629853721774
+      Jojo_Gameplay_Sheet_144: 6639454587473889720
+      Jojo_Gameplay_Sheet_145: -2646488904791313816
+      Jojo_Gameplay_Sheet_146: 7077862590896567213
+      Jojo_Gameplay_Sheet_147: -8242871061239833631
+      Jojo_Gameplay_Sheet_148: 5601434906817589032
+      Jojo_Gameplay_Sheet_149: -1743620256843773544
+      Jojo_Gameplay_Sheet_15: 761660350878755112
+      Jojo_Gameplay_Sheet_150: 5732672992688706557
+      Jojo_Gameplay_Sheet_151: -2307701386498300748
+      Jojo_Gameplay_Sheet_152: 6711504461424129863
+      Jojo_Gameplay_Sheet_153: 1091947022486709838
+      Jojo_Gameplay_Sheet_154: 3724405711054005227
+      Jojo_Gameplay_Sheet_155: 3445744721763464033
+      Jojo_Gameplay_Sheet_156: -7601479132030590556
+      Jojo_Gameplay_Sheet_157: -6131724329694264118
+      Jojo_Gameplay_Sheet_158: -4395569131740951308
+      Jojo_Gameplay_Sheet_159: -5107772195303794865
+      Jojo_Gameplay_Sheet_16: 6067696541380073150
+      Jojo_Gameplay_Sheet_160: 3279971578921954456
+      Jojo_Gameplay_Sheet_161: 4665040714015028687
+      Jojo_Gameplay_Sheet_17: 1020837306612843956
+      Jojo_Gameplay_Sheet_18: -2159162015251786516
+      Jojo_Gameplay_Sheet_19: 99467182680273996
+      Jojo_Gameplay_Sheet_2: -4618655449538704315
+      Jojo_Gameplay_Sheet_20: 4317449685660733237
+      Jojo_Gameplay_Sheet_21: 2952461767608445350
+      Jojo_Gameplay_Sheet_22: -1304800308991492751
+      Jojo_Gameplay_Sheet_23: 7155294452525201711
+      Jojo_Gameplay_Sheet_24: 1372037412118084753
+      Jojo_Gameplay_Sheet_25: 186475260890368167
+      Jojo_Gameplay_Sheet_26: 4345031559315234817
+      Jojo_Gameplay_Sheet_27: -4900166592109996316
+      Jojo_Gameplay_Sheet_28: 2379930910606838088
+      Jojo_Gameplay_Sheet_29: -6024360523028857331
+      Jojo_Gameplay_Sheet_3: 5945656238245549722
+      Jojo_Gameplay_Sheet_30: -8359093238673789848
+      Jojo_Gameplay_Sheet_31: -279116013540080919
+      Jojo_Gameplay_Sheet_32: 4569097680860376777
+      Jojo_Gameplay_Sheet_33: -294860043577790609
+      Jojo_Gameplay_Sheet_34: 1797912722381301146
+      Jojo_Gameplay_Sheet_35: 3095438871887333438
+      Jojo_Gameplay_Sheet_36: -5913651905118052752
+      Jojo_Gameplay_Sheet_37: 3319981025402742289
+      Jojo_Gameplay_Sheet_38: 3777897682542962793
+      Jojo_Gameplay_Sheet_39: 2561231232077541380
+      Jojo_Gameplay_Sheet_4: 9062883012285497043
+      Jojo_Gameplay_Sheet_40: -2544474326496907289
+      Jojo_Gameplay_Sheet_41: -538066021352610719
+      Jojo_Gameplay_Sheet_42: -5272623835270513314
+      Jojo_Gameplay_Sheet_43: -2094090443355692096
+      Jojo_Gameplay_Sheet_44: 418476639174161170
+      Jojo_Gameplay_Sheet_45: 1399012789430742789
+      Jojo_Gameplay_Sheet_46: -6373760866630359502
+      Jojo_Gameplay_Sheet_47: 1653168753649953884
+      Jojo_Gameplay_Sheet_48: 1365319978694677799
+      Jojo_Gameplay_Sheet_49: -446687247159261178
+      Jojo_Gameplay_Sheet_5: -1514756087188022212
+      Jojo_Gameplay_Sheet_50: -8190373592937468642
+      Jojo_Gameplay_Sheet_51: 4254568364745420428
+      Jojo_Gameplay_Sheet_52: -5828450401907858713
+      Jojo_Gameplay_Sheet_53: 7655619200421072029
+      Jojo_Gameplay_Sheet_54: -1727579807995122799
+      Jojo_Gameplay_Sheet_55: -1288201378039174624
+      Jojo_Gameplay_Sheet_56: 805776624874605890
+      Jojo_Gameplay_Sheet_57: -6090037075661519282
+      Jojo_Gameplay_Sheet_58: -4952699501812638134
+      Jojo_Gameplay_Sheet_59: 6079714896820009400
+      Jojo_Gameplay_Sheet_6: -6708258808139882877
+      Jojo_Gameplay_Sheet_60: 2902418830177343717
+      Jojo_Gameplay_Sheet_61: -2399500534161678794
+      Jojo_Gameplay_Sheet_62: -1115889793294584562
+      Jojo_Gameplay_Sheet_63: 1454027211638308879
+      Jojo_Gameplay_Sheet_64: 6624501360061482063
+      Jojo_Gameplay_Sheet_65: -5878455364121507332
+      Jojo_Gameplay_Sheet_66: -8371296075499031108
+      Jojo_Gameplay_Sheet_67: 5890817579582097051
+      Jojo_Gameplay_Sheet_68: -856018754337909291
+      Jojo_Gameplay_Sheet_69: 597071278011676777
+      Jojo_Gameplay_Sheet_7: 8369427352199772509
+      Jojo_Gameplay_Sheet_70: -3843006984695371535
+      Jojo_Gameplay_Sheet_71: -3726905673335633517
+      Jojo_Gameplay_Sheet_72: 5391229174657004905
+      Jojo_Gameplay_Sheet_73: 2061911464280651073
+      Jojo_Gameplay_Sheet_74: 8210897001352940568
+      Jojo_Gameplay_Sheet_75: -8452447267202246905
+      Jojo_Gameplay_Sheet_76: 6824639732288194584
+      Jojo_Gameplay_Sheet_77: -6504444597329864649
+      Jojo_Gameplay_Sheet_78: -8228319502905097403
+      Jojo_Gameplay_Sheet_79: -6859423317988043537
+      Jojo_Gameplay_Sheet_8: 3134121294587570342
+      Jojo_Gameplay_Sheet_80: -8868000225486519601
+      Jojo_Gameplay_Sheet_81: -8704079053537075895
+      Jojo_Gameplay_Sheet_82: 5284503718108310131
+      Jojo_Gameplay_Sheet_83: 2557763277380563780
+      Jojo_Gameplay_Sheet_84: -7145390507224315395
+      Jojo_Gameplay_Sheet_85: -8675815966756738541
+      Jojo_Gameplay_Sheet_86: 7685913803491554905
+      Jojo_Gameplay_Sheet_87: -1113240403734108511
+      Jojo_Gameplay_Sheet_88: 5615711734756182896
+      Jojo_Gameplay_Sheet_89: 4370505265331231322
+      Jojo_Gameplay_Sheet_9: -5063577437494865036
+      Jojo_Gameplay_Sheet_90: -3100709732207841668
+      Jojo_Gameplay_Sheet_91: -4526774314178713913
+      Jojo_Gameplay_Sheet_92: 8476468481539403100
+      Jojo_Gameplay_Sheet_93: 6599968865977775549
+      Jojo_Gameplay_Sheet_94: 3909515502477479545
+      Jojo_Gameplay_Sheet_95: -6232920855162427527
+      Jojo_Gameplay_Sheet_96: 5397524008348406106
+      Jojo_Gameplay_Sheet_97: -2527462067910101530
+      Jojo_Gameplay_Sheet_98: -8232232567172387787
+      Jojo_Gameplay_Sheet_99: 4424396493561717609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

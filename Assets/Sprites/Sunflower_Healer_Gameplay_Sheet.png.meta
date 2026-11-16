@@ -1,0 +1,1254 @@
+fileFormatVersion: 2
+guid: e19431470f682424ba79f02c84c50745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6084817474002018242
+    second: Sunflower_Healer_Gameplay_Sheet_0
+  - first:
+      213: -3834267642295910098
+    second: Sunflower_Healer_Gameplay_Sheet_1
+  - first:
+      213: 4961210892702989976
+    second: Sunflower_Healer_Gameplay_Sheet_2
+  - first:
+      213: 5705271477264487514
+    second: Sunflower_Healer_Gameplay_Sheet_3
+  - first:
+      213: 1246233655788421936
+    second: Sunflower_Healer_Gameplay_Sheet_4
+  - first:
+      213: -7516351218481687784
+    second: Sunflower_Healer_Gameplay_Sheet_5
+  - first:
+      213: -4912385363993494763
+    second: Sunflower_Healer_Gameplay_Sheet_6
+  - first:
+      213: -3809154036328020611
+    second: Sunflower_Healer_Gameplay_Sheet_7
+  - first:
+      213: -1563222096190429999
+    second: Sunflower_Healer_Gameplay_Sheet_8
+  - first:
+      213: -5144245317651741071
+    second: Sunflower_Healer_Gameplay_Sheet_9
+  - first:
+      213: -6326654665554247493
+    second: Sunflower_Healer_Gameplay_Sheet_10
+  - first:
+      213: -8322101924547557379
+    second: Sunflower_Healer_Gameplay_Sheet_11
+  - first:
+      213: -2218054672167673765
+    second: Sunflower_Healer_Gameplay_Sheet_12
+  - first:
+      213: 1390546839378582116
+    second: Sunflower_Healer_Gameplay_Sheet_13
+  - first:
+      213: 8221605264140730048
+    second: Sunflower_Healer_Gameplay_Sheet_14
+  - first:
+      213: -7787200026019513880
+    second: Sunflower_Healer_Gameplay_Sheet_15
+  - first:
+      213: -6297101454077040649
+    second: Sunflower_Healer_Gameplay_Sheet_16
+  - first:
+      213: 7263300774395374483
+    second: Sunflower_Healer_Gameplay_Sheet_17
+  - first:
+      213: -523829009064492887
+    second: Sunflower_Healer_Gameplay_Sheet_18
+  - first:
+      213: 7577165286396099131
+    second: Sunflower_Healer_Gameplay_Sheet_19
+  - first:
+      213: -8514471639351706846
+    second: Sunflower_Healer_Gameplay_Sheet_20
+  - first:
+      213: -123435427854354029
+    second: Sunflower_Healer_Gameplay_Sheet_21
+  - first:
+      213: -6746966740938899595
+    second: Sunflower_Healer_Gameplay_Sheet_22
+  - first:
+      213: 4274714068899615996
+    second: Sunflower_Healer_Gameplay_Sheet_23
+  - first:
+      213: 1923544270068859500
+    second: Sunflower_Healer_Gameplay_Sheet_24
+  - first:
+      213: 1834406440468350068
+    second: Sunflower_Healer_Gameplay_Sheet_25
+  - first:
+      213: -3818198769464727435
+    second: Sunflower_Healer_Gameplay_Sheet_26
+  - first:
+      213: -3850715408057144555
+    second: Sunflower_Healer_Gameplay_Sheet_27
+  - first:
+      213: -5201376958728192249
+    second: Sunflower_Healer_Gameplay_Sheet_28
+  - first:
+      213: -2503261033161260316
+    second: Sunflower_Healer_Gameplay_Sheet_29
+  - first:
+      213: 5743778490527229575
+    second: Sunflower_Healer_Gameplay_Sheet_30
+  - first:
+      213: -6066277106145050642
+    second: Sunflower_Healer_Gameplay_Sheet_31
+  - first:
+      213: -2908784952359652639
+    second: Sunflower_Healer_Gameplay_Sheet_32
+  - first:
+      213: 2192480936742650650
+    second: Sunflower_Healer_Gameplay_Sheet_33
+  - first:
+      213: 6008824851984595057
+    second: Sunflower_Healer_Gameplay_Sheet_34
+  - first:
+      213: -2720013501806370387
+    second: Sunflower_Healer_Gameplay_Sheet_35
+  - first:
+      213: -6226030458293538067
+    second: Sunflower_Healer_Gameplay_Sheet_36
+  - first:
+      213: 432242299935824501
+    second: Sunflower_Healer_Gameplay_Sheet_37
+  - first:
+      213: 4558147520057574898
+    second: Sunflower_Healer_Gameplay_Sheet_38
+  - first:
+      213: 644806986114108755
+    second: Sunflower_Healer_Gameplay_Sheet_39
+  - first:
+      213: 5753065076611827472
+    second: Sunflower_Healer_Gameplay_Sheet_40
+  - first:
+      213: -8186470185787682472
+    second: Sunflower_Healer_Gameplay_Sheet_41
+  - first:
+      213: 6562548495004945483
+    second: Sunflower_Healer_Gameplay_Sheet_42
+  - first:
+      213: -8402288057075017123
+    second: Sunflower_Healer_Gameplay_Sheet_43
+  - first:
+      213: -1532316047795640539
+    second: Sunflower_Healer_Gameplay_Sheet_44
+  - first:
+      213: -4662226569709490465
+    second: Sunflower_Healer_Gameplay_Sheet_45
+  - first:
+      213: -1031942616293915263
+    second: Sunflower_Healer_Gameplay_Sheet_46
+  - first:
+      213: 2158686004030798174
+    second: Sunflower_Healer_Gameplay_Sheet_47
+  - first:
+      213: 4829739545856010742
+    second: Sunflower_Healer_Gameplay_Sheet_48
+  - first:
+      213: 7025268702555144526
+    second: Sunflower_Healer_Gameplay_Sheet_49
+  - first:
+      213: -7930881906394477098
+    second: Sunflower_Healer_Gameplay_Sheet_50
+  - first:
+      213: 7542887132495283853
+    second: Sunflower_Healer_Gameplay_Sheet_51
+  - first:
+      213: -5928797085656763960
+    second: Sunflower_Healer_Gameplay_Sheet_52
+  - first:
+      213: -8882865777207798483
+    second: Sunflower_Healer_Gameplay_Sheet_53
+  - first:
+      213: 612486643647910307
+    second: Sunflower_Healer_Gameplay_Sheet_54
+  - first:
+      213: -1480786353926754619
+    second: Sunflower_Healer_Gameplay_Sheet_55
+  - first:
+      213: 2189311512555007274
+    second: Sunflower_Healer_Gameplay_Sheet_56
+  - first:
+      213: -871483813015075383
+    second: Sunflower_Healer_Gameplay_Sheet_57
+  - first:
+      213: 999352781038572795
+    second: Sunflower_Healer_Gameplay_Sheet_58
+  - first:
+      213: 8145440331672589863
+    second: Sunflower_Healer_Gameplay_Sheet_59
+  - first:
+      213: -782377081239822608
+    second: Sunflower_Healer_Gameplay_Sheet_60
+  - first:
+      213: -3854953748770582016
+    second: Sunflower_Healer_Gameplay_Sheet_61
+  - first:
+      213: -1052404182791582253
+    second: Sunflower_Healer_Gameplay_Sheet_62
+  - first:
+      213: -2798712455687466797
+    second: Sunflower_Healer_Gameplay_Sheet_63
+  - first:
+      213: 2190678044469492410
+    second: Sunflower_Healer_Gameplay_Sheet_64
+  - first:
+      213: -2288667998854543560
+    second: Sunflower_Healer_Gameplay_Sheet_65
+  - first:
+      213: 7307661988717061104
+    second: Sunflower_Healer_Gameplay_Sheet_66
+  - first:
+      213: 4771055402728814929
+    second: Sunflower_Healer_Gameplay_Sheet_67
+  - first:
+      213: 1466781886058228295
+    second: Sunflower_Healer_Gameplay_Sheet_68
+  - first:
+      213: 8329226594839901094
+    second: Sunflower_Healer_Gameplay_Sheet_69
+  - first:
+      213: -8969440920031088766
+    second: Sunflower_Healer_Gameplay_Sheet_70
+  - first:
+      213: -5153346390743038323
+    second: Sunflower_Healer_Gameplay_Sheet_71
+  - first:
+      213: 989474627685347631
+    second: Sunflower_Healer_Gameplay_Sheet_72
+  - first:
+      213: -1600683457540021781
+    second: Sunflower_Healer_Gameplay_Sheet_73
+  - first:
+      213: -6272420828252909799
+    second: Sunflower_Healer_Gameplay_Sheet_74
+  - first:
+      213: 348261867202654449
+    second: Sunflower_Healer_Gameplay_Sheet_75
+  - first:
+      213: -8025812958456374363
+    second: Sunflower_Healer_Gameplay_Sheet_76
+  - first:
+      213: -2439140957610623456
+    second: Sunflower_Healer_Gameplay_Sheet_77
+  - first:
+      213: 79745587287776821
+    second: Sunflower_Healer_Gameplay_Sheet_78
+  - first:
+      213: 6317143658958601000
+    second: Sunflower_Healer_Gameplay_Sheet_79
+  - first:
+      213: -3671824189567886530
+    second: Sunflower_Healer_Gameplay_Sheet_80
+  - first:
+      213: 8680152266166122890
+    second: Sunflower_Healer_Gameplay_Sheet_81
+  - first:
+      213: 622609775042883927
+    second: Sunflower_Healer_Gameplay_Sheet_82
+  - first:
+      213: 2803638498130057102
+    second: Sunflower_Healer_Gameplay_Sheet_83
+  - first:
+      213: 6980786671308469873
+    second: Sunflower_Healer_Gameplay_Sheet_84
+  - first:
+      213: -4074711665355219141
+    second: Sunflower_Healer_Gameplay_Sheet_85
+  - first:
+      213: 5560025527887457885
+    second: Sunflower_Healer_Gameplay_Sheet_86
+  - first:
+      213: 3145863255710382318
+    second: Sunflower_Healer_Gameplay_Sheet_87
+  - first:
+      213: -8356604591227124228
+    second: Sunflower_Healer_Gameplay_Sheet_88
+  - first:
+      213: -3687705476080295192
+    second: Sunflower_Healer_Gameplay_Sheet_89
+  - first:
+      213: 8101330431411804382
+    second: Sunflower_Healer_Gameplay_Sheet_90
+  - first:
+      213: -172076070540213473
+    second: Sunflower_Healer_Gameplay_Sheet_91
+  - first:
+      213: -2750398187091056760
+    second: Sunflower_Healer_Gameplay_Sheet_92
+  - first:
+      213: 6614118192964707656
+    second: Sunflower_Healer_Gameplay_Sheet_93
+  - first:
+      213: 9218025192278974015
+    second: Sunflower_Healer_Gameplay_Sheet_94
+  - first:
+      213: -6048935310799272932
+    second: Sunflower_Healer_Gameplay_Sheet_95
+  - first:
+      213: 1587258961783217153
+    second: Sunflower_Healer_Gameplay_Sheet_96
+  - first:
+      213: 3375523881778381893
+    second: Sunflower_Healer_Gameplay_Sheet_97
+  - first:
+      213: -6024520283262410811
+    second: Sunflower_Healer_Gameplay_Sheet_98
+  - first:
+      213: 7549530395601494516
+    second: Sunflower_Healer_Gameplay_Sheet_99
+  - first:
+      213: 7726876248061917304
+    second: Sunflower_Healer_Gameplay_Sheet_100
+  - first:
+      213: -7875818874731095964
+    second: Sunflower_Healer_Gameplay_Sheet_101
+  - first:
+      213: -8201518250388704931
+    second: Sunflower_Healer_Gameplay_Sheet_102
+  - first:
+      213: 7711627212869286991
+    second: Sunflower_Healer_Gameplay_Sheet_103
+  - first:
+      213: 197204116750275670
+    second: Sunflower_Healer_Gameplay_Sheet_104
+  - first:
+      213: -6930983876428517097
+    second: Sunflower_Healer_Gameplay_Sheet_105
+  - first:
+      213: -8532450567753409563
+    second: Sunflower_Healer_Gameplay_Sheet_106
+  - first:
+      213: -3373300343899257417
+    second: Sunflower_Healer_Gameplay_Sheet_107
+  - first:
+      213: -5365844174716407295
+    second: Sunflower_Healer_Gameplay_Sheet_108
+  - first:
+      213: 1599048935711025400
+    second: Sunflower_Healer_Gameplay_Sheet_109
+  - first:
+      213: 855324879975266935
+    second: Sunflower_Healer_Gameplay_Sheet_110
+  - first:
+      213: 8798177777776858254
+    second: Sunflower_Healer_Gameplay_Sheet_111
+  - first:
+      213: -1479518239324257184
+    second: Sunflower_Healer_Gameplay_Sheet_112
+  - first:
+      213: 2708678440636766436
+    second: Sunflower_Healer_Gameplay_Sheet_113
+  - first:
+      213: 2243559754429511581
+    second: Sunflower_Healer_Gameplay_Sheet_114
+  - first:
+      213: 5275064574979073865
+    second: Sunflower_Healer_Gameplay_Sheet_115
+  - first:
+      213: -3331317500380731244
+    second: Sunflower_Healer_Gameplay_Sheet_116
+  - first:
+      213: 8526545406542502657
+    second: Sunflower_Healer_Gameplay_Sheet_117
+  - first:
+      213: -6110252310191943728
+    second: Sunflower_Healer_Gameplay_Sheet_118
+  - first:
+      213: 534772486747099457
+    second: Sunflower_Healer_Gameplay_Sheet_119
+  - first:
+      213: 8917397161685442448
+    second: Sunflower_Healer_Gameplay_Sheet_120
+  - first:
+      213: -69393620479846442
+    second: Sunflower_Healer_Gameplay_Sheet_121
+  - first:
+      213: 8873560984676928426
+    second: Sunflower_Healer_Gameplay_Sheet_122
+  - first:
+      213: 2995313168648346322
+    second: Sunflower_Healer_Gameplay_Sheet_123
+  - first:
+      213: -656449496733259003
+    second: Sunflower_Healer_Gameplay_Sheet_124
+  - first:
+      213: -7656733172845272997
+    second: Sunflower_Healer_Gameplay_Sheet_125
+  - first:
+      213: 2587225816340686162
+    second: Sunflower_Healer_Gameplay_Sheet_126
+  - first:
+      213: 5358748734173526814
+    second: Sunflower_Healer_Gameplay_Sheet_127
+  - first:
+      213: -8727966489283366375
+    second: Sunflower_Healer_Gameplay_Sheet_128
+  - first:
+      213: 532621707485927525
+    second: Sunflower_Healer_Gameplay_Sheet_129
+  - first:
+      213: -8959558223881887985
+    second: Sunflower_Healer_Gameplay_Sheet_130
+  - first:
+      213: 7155612902588628643
+    second: Sunflower_Healer_Gameplay_Sheet_131
+  - first:
+      213: 6664064155020482019
+    second: Sunflower_Healer_Gameplay_Sheet_132
+  - first:
+      213: -366739055870116453
+    second: Sunflower_Healer_Gameplay_Sheet_133
+  - first:
+      213: 779927610692698511
+    second: Sunflower_Healer_Gameplay_Sheet_134
+  - first:
+      213: 715093833618236010
+    second: Sunflower_Healer_Gameplay_Sheet_135
+  - first:
+      213: -2596324026615343406
+    second: Sunflower_Healer_Gameplay_Sheet_136
+  - first:
+      213: -3632068817443245515
+    second: Sunflower_Healer_Gameplay_Sheet_137
+  - first:
+      213: -1291592774056587538
+    second: Sunflower_Healer_Gameplay_Sheet_138
+  - first:
+      213: -41082909058460830
+    second: Sunflower_Healer_Gameplay_Sheet_139
+  - first:
+      213: 894206829870368473
+    second: Sunflower_Healer_Gameplay_Sheet_140
+  - first:
+      213: 6013551721034232578
+    second: Sunflower_Healer_Gameplay_Sheet_141
+  - first:
+      213: 4559636355927296446
+    second: Sunflower_Healer_Gameplay_Sheet_142
+  - first:
+      213: -7899062296586464308
+    second: Sunflower_Healer_Gameplay_Sheet_143
+  - first:
+      213: -413958975109808446
+    second: Sunflower_Healer_Gameplay_Sheet_144
+  - first:
+      213: -6946143974964875857
+    second: Sunflower_Healer_Gameplay_Sheet_145
+  - first:
+      213: -3942417292719998082
+    second: Sunflower_Healer_Gameplay_Sheet_146
+  - first:
+      213: -756808830881479113
+    second: Sunflower_Healer_Gameplay_Sheet_147
+  - first:
+      213: -6579318387221896978
+    second: Sunflower_Healer_Gameplay_Sheet_148
+  - first:
+      213: -6265257749733764084
+    second: Sunflower_Healer_Gameplay_Sheet_149
+  - first:
+      213: 2972881243599762021
+    second: Sunflower_Healer_Gameplay_Sheet_150
+  - first:
+      213: -9196889538614125179
+    second: Sunflower_Healer_Gameplay_Sheet_151
+  - first:
+      213: 3398174141302285859
+    second: Sunflower_Healer_Gameplay_Sheet_152
+  - first:
+      213: 53771420327006891
+    second: Sunflower_Healer_Gameplay_Sheet_153
+  - first:
+      213: 600937034784223377
+    second: Sunflower_Healer_Gameplay_Sheet_154
+  - first:
+      213: 791156373685442094
+    second: Sunflower_Healer_Gameplay_Sheet_155
+  - first:
+      213: 1809988754292467402
+    second: Sunflower_Healer_Gameplay_Sheet_156
+  - first:
+      213: 1735087133056639244
+    second: Sunflower_Healer_Gameplay_Sheet_157
+  - first:
+      213: 8283162180486352262
+    second: Sunflower_Healer_Gameplay_Sheet_158
+  - first:
+      213: -4398847334912530522
+    second: Sunflower_Healer_Gameplay_Sheet_159
+  - first:
+      213: 8466610051176723941
+    second: Sunflower_Healer_Gameplay_Sheet_160
+  - first:
+      213: 5331745633229604473
+    second: Sunflower_Healer_Gameplay_Sheet_161
+  - first:
+      213: 864189818054682176
+    second: Sunflower_Healer_Gameplay_Sheet_162
+  - first:
+      213: -1171575587159584821
+    second: Sunflower_Healer_Gameplay_Sheet_163
+  - first:
+      213: 4163852309733396089
+    second: Sunflower_Healer_Gameplay_Sheet_164
+  - first:
+      213: 7504288653478828257
+    second: Sunflower_Healer_Gameplay_Sheet_165
+  - first:
+      213: -2554625136921032111
+    second: Sunflower_Healer_Gameplay_Sheet_166
+  - first:
+      213: 5672959687726609257
+    second: Sunflower_Healer_Gameplay_Sheet_167
+  - first:
+      213: 3521615690687720764
+    second: Sunflower_Healer_Gameplay_Sheet_168
+  - first:
+      213: -6847746317544621119
+    second: Sunflower_Healer_Gameplay_Sheet_169
+  - first:
+      213: -6394381698843760939
+    second: Sunflower_Healer_Gameplay_Sheet_170
+  - first:
+      213: -2620661652135596699
+    second: Sunflower_Healer_Gameplay_Sheet_171
+  - first:
+      213: -981575838059330663
+    second: Sunflower_Healer_Gameplay_Sheet_172
+  - first:
+      213: 160131881313919523
+    second: Sunflower_Healer_Gameplay_Sheet_173
+  - first:
+      213: -2738168989093207439
+    second: Sunflower_Healer_Gameplay_Sheet_174
+  - first:
+      213: 3944747360695421879
+    second: Sunflower_Healer_Gameplay_Sheet_175
+  - first:
+      213: -6360213861218150077
+    second: Sunflower_Healer_Gameplay_Sheet_176
+  - first:
+      213: -78026890542912391
+    second: Sunflower_Healer_Gameplay_Sheet_177
+  - first:
+      213: 3131978179762584501
+    second: Sunflower_Healer_Gameplay_Sheet_178
+  - first:
+      213: 4588876965467613192
+    second: Sunflower_Healer_Gameplay_Sheet_179
+  - first:
+      213: -1296797554193079593
+    second: Sunflower_Healer_Gameplay_Sheet_180
+  - first:
+      213: -3702713451834752992
+    second: Sunflower_Healer_Gameplay_Sheet_181
+  - first:
+      213: 3801834899059982498
+    second: Sunflower_Healer_Gameplay_Sheet_182
+  - first:
+      213: 8195496780362137478
+    second: Sunflower_Healer_Gameplay_Sheet_183
+  - first:
+      213: -1212071953596293919
+    second: Sunflower_Healer_Gameplay_Sheet_184
+  - first:
+      213: -6834635681436395751
+    second: Sunflower_Healer_Gameplay_Sheet_185
+  - first:
+      213: 5598215658208565170
+    second: Sunflower_Healer_Gameplay_Sheet_186
+  - first:
+      213: -6880653148795088435
+    second: Sunflower_Healer_Gameplay_Sheet_187
+  - first:
+      213: 2218358550127494248
+    second: Sunflower_Healer_Gameplay_Sheet_188
+  - first:
+      213: -381512545441866094
+    second: Sunflower_Healer_Gameplay_Sheet_189
+  - first:
+      213: 2402920613926501653
+    second: Sunflower_Healer_Gameplay_Sheet_190
+  - first:
+      213: -5977407948018630383
+    second: Sunflower_Healer_Gameplay_Sheet_191
+  - first:
+      213: -9187315069988845665
+    second: Sunflower_Healer_Gameplay_Sheet_192
+  - first:
+      213: 687044211331889034
+    second: Sunflower_Healer_Gameplay_Sheet_193
+  - first:
+      213: -8473211412871187206
+    second: Sunflower_Healer_Gameplay_Sheet_194
+  - first:
+      213: -2799940364243847908
+    second: Sunflower_Healer_Gameplay_Sheet_195
+  - first:
+      213: 2257944584485891160
+    second: Sunflower_Healer_Gameplay_Sheet_196
+  - first:
+      213: 3081947787552188465
+    second: Sunflower_Healer_Gameplay_Sheet_197
+  - first:
+      213: 3593623807236674623
+    second: Sunflower_Healer_Gameplay_Sheet_198
+  - first:
+      213: 5222015938553201190
+    second: Sunflower_Healer_Gameplay_Sheet_199
+  - first:
+      213: 1410153652850910449
+    second: Sunflower_Healer_Gameplay_Sheet_200
+  - first:
+      213: 860055020937415155
+    second: Sunflower_Healer_Gameplay_Sheet_201
+  - first:
+      213: -6030172764613444405
+    second: Sunflower_Healer_Gameplay_Sheet_202
+  - first:
+      213: 6526647626856441820
+    second: Sunflower_Healer_Gameplay_Sheet_203
+  - first:
+      213: -8401851307614032365
+    second: Sunflower_Healer_Gameplay_Sheet_204
+  - first:
+      213: 4566071064507618284
+    second: Sunflower_Healer_Gameplay_Sheet_205
+  - first:
+      213: -2764473348578898399
+    second: Sunflower_Healer_Gameplay_Sheet_206
+  - first:
+      213: 8678922870394888379
+    second: Sunflower_Healer_Gameplay_Sheet_207
+  - first:
+      213: 3476904752943732513
+    second: Sunflower_Healer_Gameplay_Sheet_208
+  - first:
+      213: 2678979694969624423
+    second: Sunflower_Healer_Gameplay_Sheet_209
+  - first:
+      213: -268180381212646159
+    second: Sunflower_Healer_Gameplay_Sheet_210
+  - first:
+      213: -425989584018963404
+    second: Sunflower_Healer_Gameplay_Sheet_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfdafcf04d917450800000000000000
+      internalID: 6084817474002018242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218d27e4e1f9cac0800000000000000
+      internalID: -3834267642295910098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e3c537503c9d440800000000000000
+      internalID: 4961210892702989976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5494854e223d2f40800000000000000
+      internalID: 5705271477264487514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c76838e28b4110800000000000000
+      internalID: 1246233655788421936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813135fd36e80b790800000000000000
+      internalID: -7516351218481687784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf653d983b3dbb0800000000000000
+      internalID: -4912385363993494763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754ce1f59a232bc0800000000000000
+      internalID: -3809154036328020611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4278b29c15e4ae0800000000000000
+      internalID: -1563222096190429999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176c6e39328fb98b0800000000000000
+      internalID: -5144245317651741071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0421b0a153338a0800000000000000
+      internalID: -6326654665554247493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78fba5464f18c80800000000000000
+      internalID: -8322101924547557379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ec050703e731e0800000000000000
+      internalID: -2218054672167673765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad3b4abf63c4310800000000000000
+      internalID: 1390546839378582116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef6948d62091270800000000000000
+      internalID: 8221605264140730048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b13ea5de4ee390800000000000000
+      internalID: -7787200026019513880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7642b47933c98a0800000000000000
+      internalID: -6297101454077040649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39be7aa529d6cc460800000000000000
+      internalID: 7263300774395374483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a08aa7aa4cfab8f0800000000000000
+      internalID: -523829009064492887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower_Healer_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7f04beaf772960800000000000000
+      internalID: 7577165286396099131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c4f9117bdb5aefd439af9371042f8a5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sunflower_Healer_Gameplay_Sheet_0: 6084817474002018242
+      Sunflower_Healer_Gameplay_Sheet_1: -3834267642295910098
+      Sunflower_Healer_Gameplay_Sheet_10: -6326654665554247493
+      Sunflower_Healer_Gameplay_Sheet_11: -8322101924547557379
+      Sunflower_Healer_Gameplay_Sheet_12: -2218054672167673765
+      Sunflower_Healer_Gameplay_Sheet_13: 1390546839378582116
+      Sunflower_Healer_Gameplay_Sheet_14: 8221605264140730048
+      Sunflower_Healer_Gameplay_Sheet_15: -7787200026019513880
+      Sunflower_Healer_Gameplay_Sheet_16: -6297101454077040649
+      Sunflower_Healer_Gameplay_Sheet_17: 7263300774395374483
+      Sunflower_Healer_Gameplay_Sheet_18: -523829009064492887
+      Sunflower_Healer_Gameplay_Sheet_19: 7577165286396099131
+      Sunflower_Healer_Gameplay_Sheet_2: 4961210892702989976
+      Sunflower_Healer_Gameplay_Sheet_3: 5705271477264487514
+      Sunflower_Healer_Gameplay_Sheet_4: 1246233655788421936
+      Sunflower_Healer_Gameplay_Sheet_5: -7516351218481687784
+      Sunflower_Healer_Gameplay_Sheet_6: -4912385363993494763
+      Sunflower_Healer_Gameplay_Sheet_7: -3809154036328020611
+      Sunflower_Healer_Gameplay_Sheet_8: -1563222096190429999
+      Sunflower_Healer_Gameplay_Sheet_9: -5144245317651741071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

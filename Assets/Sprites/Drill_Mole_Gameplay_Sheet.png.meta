@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: c08512f7b1ed9ab46a8f88fd40cba347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1928372611023074552
+    second: Drill_Mole_Gameplay_Sheet_0
+  - first:
+      213: 8423452028652869315
+    second: Drill_Mole_Gameplay_Sheet_1
+  - first:
+      213: 1015332458108708155
+    second: Drill_Mole_Gameplay_Sheet_2
+  - first:
+      213: 5492719903806344129
+    second: Drill_Mole_Gameplay_Sheet_3
+  - first:
+      213: 3502440144399342241
+    second: Drill_Mole_Gameplay_Sheet_4
+  - first:
+      213: 5080305080647043427
+    second: Drill_Mole_Gameplay_Sheet_5
+  - first:
+      213: -2485402117594797131
+    second: Drill_Mole_Gameplay_Sheet_6
+  - first:
+      213: -8853659950767052385
+    second: Drill_Mole_Gameplay_Sheet_7
+  - first:
+      213: 1766780388548703767
+    second: Drill_Mole_Gameplay_Sheet_8
+  - first:
+      213: 4072158777784298610
+    second: Drill_Mole_Gameplay_Sheet_9
+  - first:
+      213: 3434282305035319151
+    second: Drill_Mole_Gameplay_Sheet_10
+  - first:
+      213: -8556300488461195604
+    second: Drill_Mole_Gameplay_Sheet_11
+  - first:
+      213: -8812567286153989479
+    second: Drill_Mole_Gameplay_Sheet_12
+  - first:
+      213: 1117184457134437895
+    second: Drill_Mole_Gameplay_Sheet_13
+  - first:
+      213: -5098475113053385772
+    second: Drill_Mole_Gameplay_Sheet_14
+  - first:
+      213: 4847186125831485685
+    second: Drill_Mole_Gameplay_Sheet_15
+  - first:
+      213: 4891922063488709167
+    second: Drill_Mole_Gameplay_Sheet_16
+  - first:
+      213: -8667043102270562121
+    second: Drill_Mole_Gameplay_Sheet_17
+  - first:
+      213: -264443448941585753
+    second: Drill_Mole_Gameplay_Sheet_18
+  - first:
+      213: -6751445097528717006
+    second: Drill_Mole_Gameplay_Sheet_19
+  - first:
+      213: 3720605398498998089
+    second: Drill_Mole_Gameplay_Sheet_20
+  - first:
+      213: -1442711637320589477
+    second: Drill_Mole_Gameplay_Sheet_21
+  - first:
+      213: 2291391928890951732
+    second: Drill_Mole_Gameplay_Sheet_22
+  - first:
+      213: 7321755051047715634
+    second: Drill_Mole_Gameplay_Sheet_23
+  - first:
+      213: -7974059549316870290
+    second: Drill_Mole_Gameplay_Sheet_24
+  - first:
+      213: -8711452031823368206
+    second: Drill_Mole_Gameplay_Sheet_25
+  - first:
+      213: -4397683835753850108
+    second: Drill_Mole_Gameplay_Sheet_26
+  - first:
+      213: 8644799244478718631
+    second: Drill_Mole_Gameplay_Sheet_27
+  - first:
+      213: -483778351835557021
+    second: Drill_Mole_Gameplay_Sheet_28
+  - first:
+      213: 48213559963724305
+    second: Drill_Mole_Gameplay_Sheet_29
+  - first:
+      213: 8551831389976244328
+    second: Drill_Mole_Gameplay_Sheet_30
+  - first:
+      213: 8036606670622807633
+    second: Drill_Mole_Gameplay_Sheet_31
+  - first:
+      213: -8041995799225329522
+    second: Drill_Mole_Gameplay_Sheet_32
+  - first:
+      213: 3164808603750649941
+    second: Drill_Mole_Gameplay_Sheet_33
+  - first:
+      213: -7784873757805549710
+    second: Drill_Mole_Gameplay_Sheet_34
+  - first:
+      213: 7089413704562867741
+    second: Drill_Mole_Gameplay_Sheet_35
+  - first:
+      213: -8361218104946370394
+    second: Drill_Mole_Gameplay_Sheet_36
+  - first:
+      213: -5290376230368123418
+    second: Drill_Mole_Gameplay_Sheet_37
+  - first:
+      213: -150033989368967772
+    second: Drill_Mole_Gameplay_Sheet_38
+  - first:
+      213: 4445361742158175687
+    second: Drill_Mole_Gameplay_Sheet_39
+  - first:
+      213: 6219296492989958029
+    second: Drill_Mole_Gameplay_Sheet_40
+  - first:
+      213: 3973415698188485456
+    second: Drill_Mole_Gameplay_Sheet_41
+  - first:
+      213: -8140484219940815141
+    second: Drill_Mole_Gameplay_Sheet_42
+  - first:
+      213: 1459111315003461231
+    second: Drill_Mole_Gameplay_Sheet_43
+  - first:
+      213: 5390668550213630285
+    second: Drill_Mole_Gameplay_Sheet_44
+  - first:
+      213: 1420946684779474009
+    second: Drill_Mole_Gameplay_Sheet_45
+  - first:
+      213: 7457782513909305418
+    second: Drill_Mole_Gameplay_Sheet_46
+  - first:
+      213: 1545339330154917312
+    second: Drill_Mole_Gameplay_Sheet_47
+  - first:
+      213: -8734853208307744787
+    second: Drill_Mole_Gameplay_Sheet_48
+  - first:
+      213: 4964727861912325791
+    second: Drill_Mole_Gameplay_Sheet_49
+  - first:
+      213: -6082339465061828547
+    second: Drill_Mole_Gameplay_Sheet_50
+  - first:
+      213: -5856971975404679718
+    second: Drill_Mole_Gameplay_Sheet_51
+  - first:
+      213: 8089299979875952373
+    second: Drill_Mole_Gameplay_Sheet_52
+  - first:
+      213: -5304299436355003620
+    second: Drill_Mole_Gameplay_Sheet_53
+  - first:
+      213: -124864060611987314
+    second: Drill_Mole_Gameplay_Sheet_54
+  - first:
+      213: -5179331032419759189
+    second: Drill_Mole_Gameplay_Sheet_55
+  - first:
+      213: -4942357028552163620
+    second: Drill_Mole_Gameplay_Sheet_56
+  - first:
+      213: 5163852687543183497
+    second: Drill_Mole_Gameplay_Sheet_57
+  - first:
+      213: -6785746398439527582
+    second: Drill_Mole_Gameplay_Sheet_58
+  - first:
+      213: 1575240906859873269
+    second: Drill_Mole_Gameplay_Sheet_59
+  - first:
+      213: -8652088155758867768
+    second: Drill_Mole_Gameplay_Sheet_60
+  - first:
+      213: -5483795475223359056
+    second: Drill_Mole_Gameplay_Sheet_61
+  - first:
+      213: 2873670295427793896
+    second: Drill_Mole_Gameplay_Sheet_62
+  - first:
+      213: -7310720330182601395
+    second: Drill_Mole_Gameplay_Sheet_63
+  - first:
+      213: -4713490403502336647
+    second: Drill_Mole_Gameplay_Sheet_64
+  - first:
+      213: 8699969401151143106
+    second: Drill_Mole_Gameplay_Sheet_65
+  - first:
+      213: 8525262729782834648
+    second: Drill_Mole_Gameplay_Sheet_66
+  - first:
+      213: -4020745200015711119
+    second: Drill_Mole_Gameplay_Sheet_67
+  - first:
+      213: -8779068526319917834
+    second: Drill_Mole_Gameplay_Sheet_68
+  - first:
+      213: 7819951448054264365
+    second: Drill_Mole_Gameplay_Sheet_69
+  - first:
+      213: 6830643749725212852
+    second: Drill_Mole_Gameplay_Sheet_70
+  - first:
+      213: -4643005030569779317
+    second: Drill_Mole_Gameplay_Sheet_71
+  - first:
+      213: -1992358928094687318
+    second: Drill_Mole_Gameplay_Sheet_72
+  - first:
+      213: 2019770782567661515
+    second: Drill_Mole_Gameplay_Sheet_73
+  - first:
+      213: 36186135030470284
+    second: Drill_Mole_Gameplay_Sheet_74
+  - first:
+      213: -8844046456657683670
+    second: Drill_Mole_Gameplay_Sheet_75
+  - first:
+      213: 3887664584143513150
+    second: Drill_Mole_Gameplay_Sheet_76
+  - first:
+      213: 7775772630480738413
+    second: Drill_Mole_Gameplay_Sheet_77
+  - first:
+      213: -230439939596652819
+    second: Drill_Mole_Gameplay_Sheet_78
+  - first:
+      213: -1257323004269668694
+    second: Drill_Mole_Gameplay_Sheet_79
+  - first:
+      213: 4593533906060182712
+    second: Drill_Mole_Gameplay_Sheet_80
+  - first:
+      213: -8233810822565642703
+    second: Drill_Mole_Gameplay_Sheet_81
+  - first:
+      213: -2571788456255911208
+    second: Drill_Mole_Gameplay_Sheet_82
+  - first:
+      213: 6914576899998221088
+    second: Drill_Mole_Gameplay_Sheet_83
+  - first:
+      213: 4415038969714251515
+    second: Drill_Mole_Gameplay_Sheet_84
+  - first:
+      213: -4595212150221136747
+    second: Drill_Mole_Gameplay_Sheet_85
+  - first:
+      213: 5575718140508879206
+    second: Drill_Mole_Gameplay_Sheet_86
+  - first:
+      213: 1008171897820744031
+    second: Drill_Mole_Gameplay_Sheet_87
+  - first:
+      213: -1137294691029057456
+    second: Drill_Mole_Gameplay_Sheet_88
+  - first:
+      213: -7085452262688282953
+    second: Drill_Mole_Gameplay_Sheet_89
+  - first:
+      213: -1209712360948251455
+    second: Drill_Mole_Gameplay_Sheet_90
+  - first:
+      213: 8117604594795777683
+    second: Drill_Mole_Gameplay_Sheet_91
+  - first:
+      213: -5653164212670605439
+    second: Drill_Mole_Gameplay_Sheet_92
+  - first:
+      213: 906121660471163037
+    second: Drill_Mole_Gameplay_Sheet_93
+  - first:
+      213: -4024276187001272456
+    second: Drill_Mole_Gameplay_Sheet_94
+  - first:
+      213: 2500066962076581027
+    second: Drill_Mole_Gameplay_Sheet_95
+  - first:
+      213: 174130416537045288
+    second: Drill_Mole_Gameplay_Sheet_96
+  - first:
+      213: 7201811552911408124
+    second: Drill_Mole_Gameplay_Sheet_97
+  - first:
+      213: 6014631701764818598
+    second: Drill_Mole_Gameplay_Sheet_98
+  - first:
+      213: 4358718119484008649
+    second: Drill_Mole_Gameplay_Sheet_99
+  - first:
+      213: -3688532411794299374
+    second: Drill_Mole_Gameplay_Sheet_100
+  - first:
+      213: 6009587326919377442
+    second: Drill_Mole_Gameplay_Sheet_101
+  - first:
+      213: 6131199602271635225
+    second: Drill_Mole_Gameplay_Sheet_102
+  - first:
+      213: -9061321752316816029
+    second: Drill_Mole_Gameplay_Sheet_103
+  - first:
+      213: 4203781424243366736
+    second: Drill_Mole_Gameplay_Sheet_104
+  - first:
+      213: -5162792839234496890
+    second: Drill_Mole_Gameplay_Sheet_105
+  - first:
+      213: 1735726625107042181
+    second: Drill_Mole_Gameplay_Sheet_106
+  - first:
+      213: -4889461328378930823
+    second: Drill_Mole_Gameplay_Sheet_107
+  - first:
+      213: 6340663927755014391
+    second: Drill_Mole_Gameplay_Sheet_108
+  - first:
+      213: 2624313586672429484
+    second: Drill_Mole_Gameplay_Sheet_109
+  - first:
+      213: -8004467193174461084
+    second: Drill_Mole_Gameplay_Sheet_110
+  - first:
+      213: 3461097031863376162
+    second: Drill_Mole_Gameplay_Sheet_111
+  - first:
+      213: 8486811456947187103
+    second: Drill_Mole_Gameplay_Sheet_112
+  - first:
+      213: -1165736607564926129
+    second: Drill_Mole_Gameplay_Sheet_113
+  - first:
+      213: -1461849395219298997
+    second: Drill_Mole_Gameplay_Sheet_114
+  - first:
+      213: 7955526174448921893
+    second: Drill_Mole_Gameplay_Sheet_115
+  - first:
+      213: 3554079040341939871
+    second: Drill_Mole_Gameplay_Sheet_116
+  - first:
+      213: 1800642063898014216
+    second: Drill_Mole_Gameplay_Sheet_117
+  - first:
+      213: 70497813016222280
+    second: Drill_Mole_Gameplay_Sheet_118
+  - first:
+      213: -9137903383280528257
+    second: Drill_Mole_Gameplay_Sheet_119
+  - first:
+      213: 6080345361826120524
+    second: Drill_Mole_Gameplay_Sheet_120
+  - first:
+      213: 8786565047379383459
+    second: Drill_Mole_Gameplay_Sheet_121
+  - first:
+      213: 3224076079494644241
+    second: Drill_Mole_Gameplay_Sheet_122
+  - first:
+      213: -3004662996750570519
+    second: Drill_Mole_Gameplay_Sheet_123
+  - first:
+      213: -6771089387728344982
+    second: Drill_Mole_Gameplay_Sheet_124
+  - first:
+      213: 9136269636227631890
+    second: Drill_Mole_Gameplay_Sheet_125
+  - first:
+      213: 4579272321504057432
+    second: Drill_Mole_Gameplay_Sheet_126
+  - first:
+      213: 8044766930120634927
+    second: Drill_Mole_Gameplay_Sheet_127
+  - first:
+      213: 1253720450464443708
+    second: Drill_Mole_Gameplay_Sheet_128
+  - first:
+      213: 2079388899494485245
+    second: Drill_Mole_Gameplay_Sheet_129
+  - first:
+      213: 1266640782068963041
+    second: Drill_Mole_Gameplay_Sheet_130
+  - first:
+      213: 7337327499580145166
+    second: Drill_Mole_Gameplay_Sheet_131
+  - first:
+      213: -553327911150490445
+    second: Drill_Mole_Gameplay_Sheet_132
+  - first:
+      213: 3710996875702590854
+    second: Drill_Mole_Gameplay_Sheet_133
+  - first:
+      213: -1796699807569991727
+    second: Drill_Mole_Gameplay_Sheet_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47f9a3ca4f2ca10800000000000000
+      internalID: 1928372611023074552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6d56e9dfc16e470800000000000000
+      internalID: 8423452028652869315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b356e7ebd7f271e00800000000000000
+      internalID: 1015332458108708155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb481d96af0a3c40800000000000000
+      internalID: 5492719903806344129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa9dfd21ca2b9030800000000000000
+      internalID: 3502440144399342241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694492ed8ed08640800000000000000
+      internalID: 5080305080647043427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb22c831f3128dd0800000000000000
+      internalID: -2485402117594797131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f996d68fe2b712580800000000000000
+      internalID: -8853659950767052385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716729f076dd48810800000000000000
+      internalID: 1766780388548703767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c62da45d6338830800000000000000
+      internalID: 4072158777784298610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673a029f8509af20800000000000000
+      internalID: 3434282305035319151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6e4c9f90ae14980800000000000000
+      internalID: -8556300488461195604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99230958eb873b580800000000000000
+      internalID: -8812567286153989479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706f51c3859018f00800000000000000
+      internalID: 1117184457134437895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db8846c5e39e39b0800000000000000
+      internalID: -5098475113053385772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f83366991aa44340800000000000000
+      internalID: 4847186125831485685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f32fb23993e340800000000000000
+      internalID: 4891922063488709167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e92ce73a78b780800000000000000
+      internalID: -8667043102270562121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa58a29512845cf0800000000000000
+      internalID: -264443448941585753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drill_Mole_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2319f39547c0e42a0800000000000000
+      internalID: -6751445097528717006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d982f43e47721664cbc0b319b6409fd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Drill_Mole_Gameplay_Sheet_0: 1928372611023074552
+      Drill_Mole_Gameplay_Sheet_1: 8423452028652869315
+      Drill_Mole_Gameplay_Sheet_10: 3434282305035319151
+      Drill_Mole_Gameplay_Sheet_11: -8556300488461195604
+      Drill_Mole_Gameplay_Sheet_12: -8812567286153989479
+      Drill_Mole_Gameplay_Sheet_13: 1117184457134437895
+      Drill_Mole_Gameplay_Sheet_14: -5098475113053385772
+      Drill_Mole_Gameplay_Sheet_15: 4847186125831485685
+      Drill_Mole_Gameplay_Sheet_16: 4891922063488709167
+      Drill_Mole_Gameplay_Sheet_17: -8667043102270562121
+      Drill_Mole_Gameplay_Sheet_18: -264443448941585753
+      Drill_Mole_Gameplay_Sheet_19: -6751445097528717006
+      Drill_Mole_Gameplay_Sheet_2: 1015332458108708155
+      Drill_Mole_Gameplay_Sheet_3: 5492719903806344129
+      Drill_Mole_Gameplay_Sheet_4: 3502440144399342241
+      Drill_Mole_Gameplay_Sheet_5: 5080305080647043427
+      Drill_Mole_Gameplay_Sheet_6: -2485402117594797131
+      Drill_Mole_Gameplay_Sheet_7: -8853659950767052385
+      Drill_Mole_Gameplay_Sheet_8: 1766780388548703767
+      Drill_Mole_Gameplay_Sheet_9: 4072158777784298610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

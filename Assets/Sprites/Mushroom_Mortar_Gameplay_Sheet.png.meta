@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: b6d3975163bdbc243a88a38b457ac0ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7628218708354742196
+    second: Mushroom_Mortar_Gameplay_Sheet_0
+  - first:
+      213: 6552828876202603708
+    second: Mushroom_Mortar_Gameplay_Sheet_1
+  - first:
+      213: -8146962881723422466
+    second: Mushroom_Mortar_Gameplay_Sheet_2
+  - first:
+      213: -5924516577425313995
+    second: Mushroom_Mortar_Gameplay_Sheet_3
+  - first:
+      213: -3847081944784816291
+    second: Mushroom_Mortar_Gameplay_Sheet_4
+  - first:
+      213: -927357641998770323
+    second: Mushroom_Mortar_Gameplay_Sheet_5
+  - first:
+      213: 6276847403103712597
+    second: Mushroom_Mortar_Gameplay_Sheet_6
+  - first:
+      213: 8640992989779674153
+    second: Mushroom_Mortar_Gameplay_Sheet_7
+  - first:
+      213: 4522204615603844632
+    second: Mushroom_Mortar_Gameplay_Sheet_8
+  - first:
+      213: 25308161328962184
+    second: Mushroom_Mortar_Gameplay_Sheet_9
+  - first:
+      213: -2355622857713302267
+    second: Mushroom_Mortar_Gameplay_Sheet_10
+  - first:
+      213: 5211691455516387292
+    second: Mushroom_Mortar_Gameplay_Sheet_11
+  - first:
+      213: 3390449872791666443
+    second: Mushroom_Mortar_Gameplay_Sheet_12
+  - first:
+      213: -6766873788781311808
+    second: Mushroom_Mortar_Gameplay_Sheet_13
+  - first:
+      213: 7316052448124880914
+    second: Mushroom_Mortar_Gameplay_Sheet_14
+  - first:
+      213: 3924181207596909066
+    second: Mushroom_Mortar_Gameplay_Sheet_15
+  - first:
+      213: 1211024463253914228
+    second: Mushroom_Mortar_Gameplay_Sheet_16
+  - first:
+      213: -2014737579561345616
+    second: Mushroom_Mortar_Gameplay_Sheet_17
+  - first:
+      213: 7394257750142922840
+    second: Mushroom_Mortar_Gameplay_Sheet_18
+  - first:
+      213: 6102322214157120542
+    second: Mushroom_Mortar_Gameplay_Sheet_19
+  - first:
+      213: -170457161154842698
+    second: Mushroom_Mortar_Gameplay_Sheet_20
+  - first:
+      213: 6699415393176660583
+    second: Mushroom_Mortar_Gameplay_Sheet_21
+  - first:
+      213: 3592263805380319362
+    second: Mushroom_Mortar_Gameplay_Sheet_22
+  - first:
+      213: 7230538741741732285
+    second: Mushroom_Mortar_Gameplay_Sheet_23
+  - first:
+      213: 7403806476238971673
+    second: Mushroom_Mortar_Gameplay_Sheet_24
+  - first:
+      213: -2038989712151656481
+    second: Mushroom_Mortar_Gameplay_Sheet_25
+  - first:
+      213: -4445686791485348192
+    second: Mushroom_Mortar_Gameplay_Sheet_26
+  - first:
+      213: 6948807472662019917
+    second: Mushroom_Mortar_Gameplay_Sheet_27
+  - first:
+      213: -3157232926084384119
+    second: Mushroom_Mortar_Gameplay_Sheet_28
+  - first:
+      213: 3901770089056855590
+    second: Mushroom_Mortar_Gameplay_Sheet_29
+  - first:
+      213: -5857773904403111952
+    second: Mushroom_Mortar_Gameplay_Sheet_30
+  - first:
+      213: 2978516166246583642
+    second: Mushroom_Mortar_Gameplay_Sheet_31
+  - first:
+      213: -2330001878080545510
+    second: Mushroom_Mortar_Gameplay_Sheet_32
+  - first:
+      213: -3151430140661709644
+    second: Mushroom_Mortar_Gameplay_Sheet_33
+  - first:
+      213: -7729196415589167741
+    second: Mushroom_Mortar_Gameplay_Sheet_34
+  - first:
+      213: -2420904718770107156
+    second: Mushroom_Mortar_Gameplay_Sheet_35
+  - first:
+      213: -5000633700551841191
+    second: Mushroom_Mortar_Gameplay_Sheet_36
+  - first:
+      213: 569325399188723773
+    second: Mushroom_Mortar_Gameplay_Sheet_37
+  - first:
+      213: 187879830217424514
+    second: Mushroom_Mortar_Gameplay_Sheet_38
+  - first:
+      213: -7893714030375477538
+    second: Mushroom_Mortar_Gameplay_Sheet_39
+  - first:
+      213: 6547271474274505504
+    second: Mushroom_Mortar_Gameplay_Sheet_40
+  - first:
+      213: -1538938743700461166
+    second: Mushroom_Mortar_Gameplay_Sheet_41
+  - first:
+      213: 7983669314864543070
+    second: Mushroom_Mortar_Gameplay_Sheet_42
+  - first:
+      213: -7960059367272959758
+    second: Mushroom_Mortar_Gameplay_Sheet_43
+  - first:
+      213: 8864390817658892569
+    second: Mushroom_Mortar_Gameplay_Sheet_44
+  - first:
+      213: 687569523685722067
+    second: Mushroom_Mortar_Gameplay_Sheet_45
+  - first:
+      213: -2041783696356323826
+    second: Mushroom_Mortar_Gameplay_Sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c683308f132690800000000000000
+      internalID: -7628218708354742196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb47afff42350fa50800000000000000
+      internalID: 6552828876202603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8259c6c6c20fe80800000000000000
+      internalID: -8146962881723422466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa6a0ff83e7cda0800000000000000
+      internalID: -5924516577425313995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57384b9a5b6c9ac0800000000000000
+      internalID: -3847081944784816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f5be0532d5123f0800000000000000
+      internalID: -927357641998770323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555745bf477db1750800000000000000
+      internalID: 6276847403103712597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924457e9759fae770800000000000000
+      internalID: 8640992989779674153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f2b2632912ce30800000000000000
+      internalID: 4522204615603844632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a5eed73a9e95000800000000000000
+      internalID: 25308161328962184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054535dd752f4fd0800000000000000
+      internalID: -2355622857713302267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72efc14c5a35840800000000000000
+      internalID: 5211691455516387292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff388223c4d0f20800000000000000
+      internalID: 3390449872791666443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c9cb342c3712a0800000000000000
+      internalID: -6766873788781311808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2184c9080f6d78560800000000000000
+      internalID: 7316052448124880914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02c311640e757630800000000000000
+      internalID: 3924181207596909066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ce82455c6ec010800000000000000
+      internalID: 1211024463253914228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9d9e88d63a04e0800000000000000
+      internalID: -2014737579561345616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b2fe4f3ead9660800000000000000
+      internalID: 7394257750142922840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Mortar_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147fc7e8bdcfa450800000000000000
+      internalID: 6102322214157120542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8444536c978a1a24ebe4c28c3c852426
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mushroom_Mortar_Gameplay_Sheet_0: -7628218708354742196
+      Mushroom_Mortar_Gameplay_Sheet_1: 6552828876202603708
+      Mushroom_Mortar_Gameplay_Sheet_10: -2355622857713302267
+      Mushroom_Mortar_Gameplay_Sheet_11: 5211691455516387292
+      Mushroom_Mortar_Gameplay_Sheet_12: 3390449872791666443
+      Mushroom_Mortar_Gameplay_Sheet_13: -6766873788781311808
+      Mushroom_Mortar_Gameplay_Sheet_14: 7316052448124880914
+      Mushroom_Mortar_Gameplay_Sheet_15: 3924181207596909066
+      Mushroom_Mortar_Gameplay_Sheet_16: 1211024463253914228
+      Mushroom_Mortar_Gameplay_Sheet_17: -2014737579561345616
+      Mushroom_Mortar_Gameplay_Sheet_18: 7394257750142922840
+      Mushroom_Mortar_Gameplay_Sheet_19: 6102322214157120542
+      Mushroom_Mortar_Gameplay_Sheet_2: -8146962881723422466
+      Mushroom_Mortar_Gameplay_Sheet_3: -5924516577425313995
+      Mushroom_Mortar_Gameplay_Sheet_4: -3847081944784816291
+      Mushroom_Mortar_Gameplay_Sheet_5: -927357641998770323
+      Mushroom_Mortar_Gameplay_Sheet_6: 6276847403103712597
+      Mushroom_Mortar_Gameplay_Sheet_7: 8640992989779674153
+      Mushroom_Mortar_Gameplay_Sheet_8: 4522204615603844632
+      Mushroom_Mortar_Gameplay_Sheet_9: 25308161328962184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

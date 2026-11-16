@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: 5431447fdd298594c98a06a3c63edfbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4218227009804112761
+    second: Lotus_Frost_Gameplay_Sheet_0
+  - first:
+      213: -1147314752336940618
+    second: Lotus_Frost_Gameplay_Sheet_1
+  - first:
+      213: -7353299742973418895
+    second: Lotus_Frost_Gameplay_Sheet_2
+  - first:
+      213: 8413390076066224024
+    second: Lotus_Frost_Gameplay_Sheet_3
+  - first:
+      213: 2421856501944851972
+    second: Lotus_Frost_Gameplay_Sheet_4
+  - first:
+      213: -4921587874004673669
+    second: Lotus_Frost_Gameplay_Sheet_5
+  - first:
+      213: -7994649805166533047
+    second: Lotus_Frost_Gameplay_Sheet_6
+  - first:
+      213: 4267737848569558240
+    second: Lotus_Frost_Gameplay_Sheet_7
+  - first:
+      213: -646762874207275244
+    second: Lotus_Frost_Gameplay_Sheet_8
+  - first:
+      213: -4205424063350869313
+    second: Lotus_Frost_Gameplay_Sheet_9
+  - first:
+      213: -5638921290640167739
+    second: Lotus_Frost_Gameplay_Sheet_10
+  - first:
+      213: -4405053204793991794
+    second: Lotus_Frost_Gameplay_Sheet_11
+  - first:
+      213: 7322180045599278276
+    second: Lotus_Frost_Gameplay_Sheet_12
+  - first:
+      213: 3648300671033227137
+    second: Lotus_Frost_Gameplay_Sheet_13
+  - first:
+      213: -409868168478974547
+    second: Lotus_Frost_Gameplay_Sheet_14
+  - first:
+      213: -6574727715537966002
+    second: Lotus_Frost_Gameplay_Sheet_15
+  - first:
+      213: -7644743064963696723
+    second: Lotus_Frost_Gameplay_Sheet_16
+  - first:
+      213: 2332486867413473116
+    second: Lotus_Frost_Gameplay_Sheet_17
+  - first:
+      213: 4672332740380395750
+    second: Lotus_Frost_Gameplay_Sheet_18
+  - first:
+      213: 1480364691793397594
+    second: Lotus_Frost_Gameplay_Sheet_19
+  - first:
+      213: 3603170179479687588
+    second: Lotus_Frost_Gameplay_Sheet_20
+  - first:
+      213: -7481793415690655309
+    second: Lotus_Frost_Gameplay_Sheet_21
+  - first:
+      213: 3106263242591602132
+    second: Lotus_Frost_Gameplay_Sheet_22
+  - first:
+      213: -4317369543146378954
+    second: Lotus_Frost_Gameplay_Sheet_23
+  - first:
+      213: -6416741376659788085
+    second: Lotus_Frost_Gameplay_Sheet_24
+  - first:
+      213: 6812996358437714651
+    second: Lotus_Frost_Gameplay_Sheet_25
+  - first:
+      213: 2307489194964991656
+    second: Lotus_Frost_Gameplay_Sheet_26
+  - first:
+      213: -2243352588723728322
+    second: Lotus_Frost_Gameplay_Sheet_27
+  - first:
+      213: 567827249466167401
+    second: Lotus_Frost_Gameplay_Sheet_28
+  - first:
+      213: -6942686242033914194
+    second: Lotus_Frost_Gameplay_Sheet_29
+  - first:
+      213: 8578008614034181686
+    second: Lotus_Frost_Gameplay_Sheet_30
+  - first:
+      213: -7988162502486144382
+    second: Lotus_Frost_Gameplay_Sheet_31
+  - first:
+      213: 3658284157049961801
+    second: Lotus_Frost_Gameplay_Sheet_32
+  - first:
+      213: -1945092020777414505
+    second: Lotus_Frost_Gameplay_Sheet_33
+  - first:
+      213: -3071074437264404559
+    second: Lotus_Frost_Gameplay_Sheet_34
+  - first:
+      213: -661767419976198282
+    second: Lotus_Frost_Gameplay_Sheet_35
+  - first:
+      213: 4928251525189231466
+    second: Lotus_Frost_Gameplay_Sheet_36
+  - first:
+      213: 9020000956521092104
+    second: Lotus_Frost_Gameplay_Sheet_37
+  - first:
+      213: -8330780957846681183
+    second: Lotus_Frost_Gameplay_Sheet_38
+  - first:
+      213: -6237020191847512094
+    second: Lotus_Frost_Gameplay_Sheet_39
+  - first:
+      213: -8833558226909789448
+    second: Lotus_Frost_Gameplay_Sheet_40
+  - first:
+      213: 8304215237834153638
+    second: Lotus_Frost_Gameplay_Sheet_41
+  - first:
+      213: 6410890124348056852
+    second: Lotus_Frost_Gameplay_Sheet_42
+  - first:
+      213: 7728289984287261201
+    second: Lotus_Frost_Gameplay_Sheet_43
+  - first:
+      213: -5305644729069439856
+    second: Lotus_Frost_Gameplay_Sheet_44
+  - first:
+      213: 4015718180543924347
+    second: Lotus_Frost_Gameplay_Sheet_45
+  - first:
+      213: 4812256173576836755
+    second: Lotus_Frost_Gameplay_Sheet_46
+  - first:
+      213: 7214519629685206317
+    second: Lotus_Frost_Gameplay_Sheet_47
+  - first:
+      213: -344184530626663912
+    second: Lotus_Frost_Gameplay_Sheet_48
+  - first:
+      213: 3695116016172258621
+    second: Lotus_Frost_Gameplay_Sheet_49
+  - first:
+      213: -3128489441833189868
+    second: Lotus_Frost_Gameplay_Sheet_50
+  - first:
+      213: -6930221671785093947
+    second: Lotus_Frost_Gameplay_Sheet_51
+  - first:
+      213: 4493892978864341513
+    second: Lotus_Frost_Gameplay_Sheet_52
+  - first:
+      213: 713653967783933333
+    second: Lotus_Frost_Gameplay_Sheet_53
+  - first:
+      213: 8426013916805414712
+    second: Lotus_Frost_Gameplay_Sheet_54
+  - first:
+      213: -1504053703088483303
+    second: Lotus_Frost_Gameplay_Sheet_55
+  - first:
+      213: -5262366190262948932
+    second: Lotus_Frost_Gameplay_Sheet_56
+  - first:
+      213: 439917519590647094
+    second: Lotus_Frost_Gameplay_Sheet_57
+  - first:
+      213: 5552317314618912438
+    second: Lotus_Frost_Gameplay_Sheet_58
+  - first:
+      213: 7689484467930276699
+    second: Lotus_Frost_Gameplay_Sheet_59
+  - first:
+      213: -3603811258586095591
+    second: Lotus_Frost_Gameplay_Sheet_60
+  - first:
+      213: -4881453050685580483
+    second: Lotus_Frost_Gameplay_Sheet_61
+  - first:
+      213: 6065335970825417810
+    second: Lotus_Frost_Gameplay_Sheet_62
+  - first:
+      213: -1647222240353907865
+    second: Lotus_Frost_Gameplay_Sheet_63
+  - first:
+      213: -3103221488969542024
+    second: Lotus_Frost_Gameplay_Sheet_64
+  - first:
+      213: -2602227811870711086
+    second: Lotus_Frost_Gameplay_Sheet_65
+  - first:
+      213: -3190430487636624632
+    second: Lotus_Frost_Gameplay_Sheet_66
+  - first:
+      213: 4814505125988930175
+    second: Lotus_Frost_Gameplay_Sheet_67
+  - first:
+      213: 792109863648249538
+    second: Lotus_Frost_Gameplay_Sheet_68
+  - first:
+      213: 6726331499108066751
+    second: Lotus_Frost_Gameplay_Sheet_69
+  - first:
+      213: 6020800765078702759
+    second: Lotus_Frost_Gameplay_Sheet_70
+  - first:
+      213: 4452785882871997158
+    second: Lotus_Frost_Gameplay_Sheet_71
+  - first:
+      213: 3969369420443345549
+    second: Lotus_Frost_Gameplay_Sheet_72
+  - first:
+      213: -8052777613499096530
+    second: Lotus_Frost_Gameplay_Sheet_73
+  - first:
+      213: -2716788064789082245
+    second: Lotus_Frost_Gameplay_Sheet_74
+  - first:
+      213: 679095346219675457
+    second: Lotus_Frost_Gameplay_Sheet_75
+  - first:
+      213: 2038071474345825109
+    second: Lotus_Frost_Gameplay_Sheet_76
+  - first:
+      213: -2648564511548068049
+    second: Lotus_Frost_Gameplay_Sheet_77
+  - first:
+      213: -1270216420396955541
+    second: Lotus_Frost_Gameplay_Sheet_78
+  - first:
+      213: -340711019719333109
+    second: Lotus_Frost_Gameplay_Sheet_79
+  - first:
+      213: -8429399495594410862
+    second: Lotus_Frost_Gameplay_Sheet_80
+  - first:
+      213: -7950374471570749439
+    second: Lotus_Frost_Gameplay_Sheet_81
+  - first:
+      213: -8908810973728706941
+    second: Lotus_Frost_Gameplay_Sheet_82
+  - first:
+      213: -140470013340693373
+    second: Lotus_Frost_Gameplay_Sheet_83
+  - first:
+      213: -2435213404439125376
+    second: Lotus_Frost_Gameplay_Sheet_84
+  - first:
+      213: -8905961775837100929
+    second: Lotus_Frost_Gameplay_Sheet_85
+  - first:
+      213: 1235674585359057214
+    second: Lotus_Frost_Gameplay_Sheet_86
+  - first:
+      213: -902131821394234973
+    second: Lotus_Frost_Gameplay_Sheet_87
+  - first:
+      213: 7578709663700230699
+    second: Lotus_Frost_Gameplay_Sheet_88
+  - first:
+      213: 6118060554488590554
+    second: Lotus_Frost_Gameplay_Sheet_89
+  - first:
+      213: 5801447227861968221
+    second: Lotus_Frost_Gameplay_Sheet_90
+  - first:
+      213: -8313627490878181173
+    second: Lotus_Frost_Gameplay_Sheet_91
+  - first:
+      213: -2469990764183077074
+    second: Lotus_Frost_Gameplay_Sheet_92
+  - first:
+      213: -4414283687224136808
+    second: Lotus_Frost_Gameplay_Sheet_93
+  - first:
+      213: 4634233800305667143
+    second: Lotus_Frost_Gameplay_Sheet_94
+  - first:
+      213: -5721346566573733493
+    second: Lotus_Frost_Gameplay_Sheet_95
+  - first:
+      213: 2794319130164722740
+    second: Lotus_Frost_Gameplay_Sheet_96
+  - first:
+      213: -1778880183764827884
+    second: Lotus_Frost_Gameplay_Sheet_97
+  - first:
+      213: 7801193162600037274
+    second: Lotus_Frost_Gameplay_Sheet_98
+  - first:
+      213: -5545806063843799017
+    second: Lotus_Frost_Gameplay_Sheet_99
+  - first:
+      213: 2192857689282160308
+    second: Lotus_Frost_Gameplay_Sheet_100
+  - first:
+      213: -3473626826895883584
+    second: Lotus_Frost_Gameplay_Sheet_101
+  - first:
+      213: -3427748244886343800
+    second: Lotus_Frost_Gameplay_Sheet_102
+  - first:
+      213: -8264749482845377376
+    second: Lotus_Frost_Gameplay_Sheet_103
+  - first:
+      213: 5003393580024425543
+    second: Lotus_Frost_Gameplay_Sheet_104
+  - first:
+      213: 7278562362120872092
+    second: Lotus_Frost_Gameplay_Sheet_105
+  - first:
+      213: -66933656885116193
+    second: Lotus_Frost_Gameplay_Sheet_106
+  - first:
+      213: -6657254752470977512
+    second: Lotus_Frost_Gameplay_Sheet_107
+  - first:
+      213: 8078346664334368720
+    second: Lotus_Frost_Gameplay_Sheet_108
+  - first:
+      213: -7759974900295242890
+    second: Lotus_Frost_Gameplay_Sheet_109
+  - first:
+      213: 7480338722702133709
+    second: Lotus_Frost_Gameplay_Sheet_110
+  - first:
+      213: -6896695600078611404
+    second: Lotus_Frost_Gameplay_Sheet_111
+  - first:
+      213: -4474712182908704868
+    second: Lotus_Frost_Gameplay_Sheet_112
+  - first:
+      213: 4997262567488704808
+    second: Lotus_Frost_Gameplay_Sheet_113
+  - first:
+      213: -52275386105268153
+    second: Lotus_Frost_Gameplay_Sheet_114
+  - first:
+      213: -6419418774412539685
+    second: Lotus_Frost_Gameplay_Sheet_115
+  - first:
+      213: 8095959469204475983
+    second: Lotus_Frost_Gameplay_Sheet_116
+  - first:
+      213: 6390465703393312699
+    second: Lotus_Frost_Gameplay_Sheet_117
+  - first:
+      213: -2666890317237849625
+    second: Lotus_Frost_Gameplay_Sheet_118
+  - first:
+      213: 1909983642617425267
+    second: Lotus_Frost_Gameplay_Sheet_119
+  - first:
+      213: 1856528160413589577
+    second: Lotus_Frost_Gameplay_Sheet_120
+  - first:
+      213: -330955571662101601
+    second: Lotus_Frost_Gameplay_Sheet_121
+  - first:
+      213: -6668553904159522803
+    second: Lotus_Frost_Gameplay_Sheet_122
+  - first:
+      213: -5105864458845689448
+    second: Lotus_Frost_Gameplay_Sheet_123
+  - first:
+      213: 1018219645051358360
+    second: Lotus_Frost_Gameplay_Sheet_124
+  - first:
+      213: -425085421215838693
+    second: Lotus_Frost_Gameplay_Sheet_125
+  - first:
+      213: 4554264467018909993
+    second: Lotus_Frost_Gameplay_Sheet_126
+  - first:
+      213: -8286371961103810371
+    second: Lotus_Frost_Gameplay_Sheet_127
+  - first:
+      213: -896002553966740048
+    second: Lotus_Frost_Gameplay_Sheet_128
+  - first:
+      213: -264626214399609174
+    second: Lotus_Frost_Gameplay_Sheet_129
+  - first:
+      213: -2692713927813431730
+    second: Lotus_Frost_Gameplay_Sheet_130
+  - first:
+      213: -8889455963295260323
+    second: Lotus_Frost_Gameplay_Sheet_131
+  - first:
+      213: -6013418432336769372
+    second: Lotus_Frost_Gameplay_Sheet_132
+  - first:
+      213: 3064270637622933256
+    second: Lotus_Frost_Gameplay_Sheet_133
+  - first:
+      213: -1839910535367441844
+    second: Lotus_Frost_Gameplay_Sheet_134
+  - first:
+      213: 190568258088321688
+    second: Lotus_Frost_Gameplay_Sheet_135
+  - first:
+      213: 7112709845282996065
+    second: Lotus_Frost_Gameplay_Sheet_136
+  - first:
+      213: 6167567124253137992
+    second: Lotus_Frost_Gameplay_Sheet_137
+  - first:
+      213: 7645101889606598059
+    second: Lotus_Frost_Gameplay_Sheet_138
+  - first:
+      213: -1311977079190744087
+    second: Lotus_Frost_Gameplay_Sheet_139
+  - first:
+      213: 7583043836675966364
+    second: Lotus_Frost_Gameplay_Sheet_140
+  - first:
+      213: -8506242832937146882
+    second: Lotus_Frost_Gameplay_Sheet_141
+  - first:
+      213: -3301613205311915387
+    second: Lotus_Frost_Gameplay_Sheet_142
+  - first:
+      213: -2952815849558313477
+    second: Lotus_Frost_Gameplay_Sheet_143
+  - first:
+      213: -3264525182263448053
+    second: Lotus_Frost_Gameplay_Sheet_144
+  - first:
+      213: -4191478642744957384
+    second: Lotus_Frost_Gameplay_Sheet_145
+  - first:
+      213: -4460272041286554252
+    second: Lotus_Frost_Gameplay_Sheet_146
+  - first:
+      213: -7334653601892699841
+    second: Lotus_Frost_Gameplay_Sheet_147
+  - first:
+      213: -8897401951328876825
+    second: Lotus_Frost_Gameplay_Sheet_148
+  - first:
+      213: -2853031663365637769
+    second: Lotus_Frost_Gameplay_Sheet_149
+  - first:
+      213: -8556872211195028920
+    second: Lotus_Frost_Gameplay_Sheet_150
+  - first:
+      213: 2474124627318409418
+    second: Lotus_Frost_Gameplay_Sheet_151
+  - first:
+      213: -2125745377821208895
+    second: Lotus_Frost_Gameplay_Sheet_152
+  - first:
+      213: 310660972050314580
+    second: Lotus_Frost_Gameplay_Sheet_153
+  - first:
+      213: 7874171825684200864
+    second: Lotus_Frost_Gameplay_Sheet_154
+  - first:
+      213: -4337571406772439425
+    second: Lotus_Frost_Gameplay_Sheet_155
+  - first:
+      213: -8164647813987271968
+    second: Lotus_Frost_Gameplay_Sheet_156
+  - first:
+      213: -6151980962592167679
+    second: Lotus_Frost_Gameplay_Sheet_157
+  - first:
+      213: 8776984668510185493
+    second: Lotus_Frost_Gameplay_Sheet_158
+  - first:
+      213: -2871791754330555830
+    second: Lotus_Frost_Gameplay_Sheet_159
+  - first:
+      213: 6415641840320786959
+    second: Lotus_Frost_Gameplay_Sheet_160
+  - first:
+      213: 3698098766060740304
+    second: Lotus_Frost_Gameplay_Sheet_161
+  - first:
+      213: -2663541590616405104
+    second: Lotus_Frost_Gameplay_Sheet_162
+  - first:
+      213: 8374029345158520026
+    second: Lotus_Frost_Gameplay_Sheet_163
+  - first:
+      213: -6206088514864780210
+    second: Lotus_Frost_Gameplay_Sheet_164
+  - first:
+      213: -4792708195209097671
+    second: Lotus_Frost_Gameplay_Sheet_165
+  - first:
+      213: -497930267530707625
+    second: Lotus_Frost_Gameplay_Sheet_166
+  - first:
+      213: -3447818949059112032
+    second: Lotus_Frost_Gameplay_Sheet_167
+  - first:
+      213: 1306055894966728526
+    second: Lotus_Frost_Gameplay_Sheet_168
+  - first:
+      213: -3346864098675130702
+    second: Lotus_Frost_Gameplay_Sheet_169
+  - first:
+      213: 7262909943167049452
+    second: Lotus_Frost_Gameplay_Sheet_170
+  - first:
+      213: -2333112819779773707
+    second: Lotus_Frost_Gameplay_Sheet_171
+  - first:
+      213: -9195700596499365390
+    second: Lotus_Frost_Gameplay_Sheet_172
+  - first:
+      213: 1971754382239631715
+    second: Lotus_Frost_Gameplay_Sheet_173
+  - first:
+      213: 4938950117176998797
+    second: Lotus_Frost_Gameplay_Sheet_174
+  - first:
+      213: 5705669742743815887
+    second: Lotus_Frost_Gameplay_Sheet_175
+  - first:
+      213: -6834032488320800662
+    second: Lotus_Frost_Gameplay_Sheet_176
+  - first:
+      213: 2251206646584709158
+    second: Lotus_Frost_Gameplay_Sheet_177
+  - first:
+      213: 4882004650369982216
+    second: Lotus_Frost_Gameplay_Sheet_178
+  - first:
+      213: -739645369106524109
+    second: Lotus_Frost_Gameplay_Sheet_179
+  - first:
+      213: 8147611887661943379
+    second: Lotus_Frost_Gameplay_Sheet_180
+  - first:
+      213: -8503063656064267622
+    second: Lotus_Frost_Gameplay_Sheet_181
+  - first:
+      213: 1153493909971391082
+    second: Lotus_Frost_Gameplay_Sheet_182
+  - first:
+      213: -5994025101874372150
+    second: Lotus_Frost_Gameplay_Sheet_183
+  - first:
+      213: 3295513339003665495
+    second: Lotus_Frost_Gameplay_Sheet_184
+  - first:
+      213: -5456982578660169540
+    second: Lotus_Frost_Gameplay_Sheet_185
+  - first:
+      213: -7151334924015029465
+    second: Lotus_Frost_Gameplay_Sheet_186
+  - first:
+      213: 6368479468084949605
+    second: Lotus_Frost_Gameplay_Sheet_187
+  - first:
+      213: -4264433667533631530
+    second: Lotus_Frost_Gameplay_Sheet_188
+  - first:
+      213: -1296809201695086408
+    second: Lotus_Frost_Gameplay_Sheet_189
+  - first:
+      213: 8408634496806141405
+    second: Lotus_Frost_Gameplay_Sheet_190
+  - first:
+      213: 4750725171407881042
+    second: Lotus_Frost_Gameplay_Sheet_191
+  - first:
+      213: 4207785540392842716
+    second: Lotus_Frost_Gameplay_Sheet_192
+  - first:
+      213: 470944537019609865
+    second: Lotus_Frost_Gameplay_Sheet_193
+  - first:
+      213: 2660625625072207927
+    second: Lotus_Frost_Gameplay_Sheet_194
+  - first:
+      213: -45596002879554684
+    second: Lotus_Frost_Gameplay_Sheet_195
+  - first:
+      213: -4922774813837328819
+    second: Lotus_Frost_Gameplay_Sheet_196
+  - first:
+      213: 481403226839929341
+    second: Lotus_Frost_Gameplay_Sheet_197
+  - first:
+      213: -8629280269579846776
+    second: Lotus_Frost_Gameplay_Sheet_198
+  - first:
+      213: -263410866723292247
+    second: Lotus_Frost_Gameplay_Sheet_199
+  - first:
+      213: -8277223683956807047
+    second: Lotus_Frost_Gameplay_Sheet_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731555cd172a8a30800000000000000
+      internalID: 4218227009804112761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1346dbf4be310f0800000000000000
+      internalID: -1147314752336940618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172291dd7d4d3f990800000000000000
+      internalID: -7353299742973418895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89759b8b2bd52c470800000000000000
+      internalID: 8413390076066224024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e946f28a92c9120800000000000000
+      internalID: 2421856501944851972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd41f77e103bbb0800000000000000
+      internalID: -4921587874004673669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94627631c5c4d0190800000000000000
+      internalID: -7994649805166533047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47a7a36fc0a3b30800000000000000
+      internalID: 4267737848569558240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417f6f4b79c3607f0800000000000000
+      internalID: -646762874207275244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2771e781553a5c0800000000000000
+      internalID: -4205424063350869313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc610366f68eb1b0800000000000000
+      internalID: -5638921290640167739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dde8ff27b1ed2c0800000000000000
+      internalID: -4405053204793991794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c40667f4fb9d9560800000000000000
+      internalID: 7322180045599278276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18731ca712e51a230800000000000000
+      internalID: 3648300671033227137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1215821bdf4af0800000000000000
+      internalID: -409868168478974547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca1742affd1c4a0800000000000000
+      internalID: -6574727715537966002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da735bd9faa68e590800000000000000
+      internalID: -7644743064963696723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579177a278ae5020800000000000000
+      internalID: 2332486867413473116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e80dce4fd577d040800000000000000
+      internalID: 4672332740380395750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus_Frost_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57406808df4b8410800000000000000
+      internalID: 1480364691793397594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3120e9e6776c1f84590d1e00b6bd0601
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Lotus_Frost_Gameplay_Sheet_0: 4218227009804112761
+      Lotus_Frost_Gameplay_Sheet_1: -1147314752336940618
+      Lotus_Frost_Gameplay_Sheet_10: -5638921290640167739
+      Lotus_Frost_Gameplay_Sheet_11: -4405053204793991794
+      Lotus_Frost_Gameplay_Sheet_12: 7322180045599278276
+      Lotus_Frost_Gameplay_Sheet_13: 3648300671033227137
+      Lotus_Frost_Gameplay_Sheet_14: -409868168478974547
+      Lotus_Frost_Gameplay_Sheet_15: -6574727715537966002
+      Lotus_Frost_Gameplay_Sheet_16: -7644743064963696723
+      Lotus_Frost_Gameplay_Sheet_17: 2332486867413473116
+      Lotus_Frost_Gameplay_Sheet_18: 4672332740380395750
+      Lotus_Frost_Gameplay_Sheet_19: 1480364691793397594
+      Lotus_Frost_Gameplay_Sheet_2: -7353299742973418895
+      Lotus_Frost_Gameplay_Sheet_3: 8413390076066224024
+      Lotus_Frost_Gameplay_Sheet_4: 2421856501944851972
+      Lotus_Frost_Gameplay_Sheet_5: -4921587874004673669
+      Lotus_Frost_Gameplay_Sheet_6: -7994649805166533047
+      Lotus_Frost_Gameplay_Sheet_7: 4267737848569558240
+      Lotus_Frost_Gameplay_Sheet_8: -646762874207275244
+      Lotus_Frost_Gameplay_Sheet_9: -4205424063350869313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

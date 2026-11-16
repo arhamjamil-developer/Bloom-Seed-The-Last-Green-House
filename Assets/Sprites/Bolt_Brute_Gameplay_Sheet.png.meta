@@ -1,0 +1,933 @@
+fileFormatVersion: 2
+guid: 897ba2b5d0415a44a8defa8224a07f5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -211876490984813944
+    second: Bolt_Brute_Gameplay_Sheet_0
+  - first:
+      213: 4685009874954041572
+    second: Bolt_Brute_Gameplay_Sheet_1
+  - first:
+      213: 6354211289521739224
+    second: Bolt_Brute_Gameplay_Sheet_2
+  - first:
+      213: -7224206184193813393
+    second: Bolt_Brute_Gameplay_Sheet_3
+  - first:
+      213: -6650318310412300290
+    second: Bolt_Brute_Gameplay_Sheet_4
+  - first:
+      213: 7883040582946197955
+    second: Bolt_Brute_Gameplay_Sheet_5
+  - first:
+      213: 8157614838662888955
+    second: Bolt_Brute_Gameplay_Sheet_6
+  - first:
+      213: -5590499887910465209
+    second: Bolt_Brute_Gameplay_Sheet_7
+  - first:
+      213: 4112370303638766501
+    second: Bolt_Brute_Gameplay_Sheet_8
+  - first:
+      213: 6438027907572068932
+    second: Bolt_Brute_Gameplay_Sheet_9
+  - first:
+      213: 8720417047543513908
+    second: Bolt_Brute_Gameplay_Sheet_10
+  - first:
+      213: -6814796684983864880
+    second: Bolt_Brute_Gameplay_Sheet_11
+  - first:
+      213: 8826636615688673657
+    second: Bolt_Brute_Gameplay_Sheet_12
+  - first:
+      213: -3797079160441431897
+    second: Bolt_Brute_Gameplay_Sheet_13
+  - first:
+      213: 387619815857834349
+    second: Bolt_Brute_Gameplay_Sheet_14
+  - first:
+      213: 2074803274865168343
+    second: Bolt_Brute_Gameplay_Sheet_15
+  - first:
+      213: 5340293679948506897
+    second: Bolt_Brute_Gameplay_Sheet_16
+  - first:
+      213: -7430838428916706445
+    second: Bolt_Brute_Gameplay_Sheet_17
+  - first:
+      213: 9223024108761403526
+    second: Bolt_Brute_Gameplay_Sheet_18
+  - first:
+      213: 6752160456714933866
+    second: Bolt_Brute_Gameplay_Sheet_19
+  - first:
+      213: 3989995082357835046
+    second: Bolt_Brute_Gameplay_Sheet_20
+  - first:
+      213: 175564920394580539
+    second: Bolt_Brute_Gameplay_Sheet_21
+  - first:
+      213: -607775512961813224
+    second: Bolt_Brute_Gameplay_Sheet_22
+  - first:
+      213: -8542276682872622891
+    second: Bolt_Brute_Gameplay_Sheet_23
+  - first:
+      213: 2809444860004077394
+    second: Bolt_Brute_Gameplay_Sheet_24
+  - first:
+      213: -7654977604959899716
+    second: Bolt_Brute_Gameplay_Sheet_25
+  - first:
+      213: 4611561012719697227
+    second: Bolt_Brute_Gameplay_Sheet_26
+  - first:
+      213: -2859375690077706597
+    second: Bolt_Brute_Gameplay_Sheet_27
+  - first:
+      213: -7168080128130988385
+    second: Bolt_Brute_Gameplay_Sheet_28
+  - first:
+      213: -6980737530165642535
+    second: Bolt_Brute_Gameplay_Sheet_29
+  - first:
+      213: 3565254553613410496
+    second: Bolt_Brute_Gameplay_Sheet_30
+  - first:
+      213: -8357662136312646283
+    second: Bolt_Brute_Gameplay_Sheet_31
+  - first:
+      213: 1575206435184285625
+    second: Bolt_Brute_Gameplay_Sheet_32
+  - first:
+      213: -1271530083272499636
+    second: Bolt_Brute_Gameplay_Sheet_33
+  - first:
+      213: -283560791758974817
+    second: Bolt_Brute_Gameplay_Sheet_34
+  - first:
+      213: 565446432762342943
+    second: Bolt_Brute_Gameplay_Sheet_35
+  - first:
+      213: -5300727291499031045
+    second: Bolt_Brute_Gameplay_Sheet_36
+  - first:
+      213: -3277622759201629143
+    second: Bolt_Brute_Gameplay_Sheet_37
+  - first:
+      213: 2885926765427749589
+    second: Bolt_Brute_Gameplay_Sheet_38
+  - first:
+      213: -4433634592689198252
+    second: Bolt_Brute_Gameplay_Sheet_39
+  - first:
+      213: -6441356410374442533
+    second: Bolt_Brute_Gameplay_Sheet_40
+  - first:
+      213: -4746121833823194346
+    second: Bolt_Brute_Gameplay_Sheet_41
+  - first:
+      213: 5374928502562955560
+    second: Bolt_Brute_Gameplay_Sheet_42
+  - first:
+      213: -2882371376778792765
+    second: Bolt_Brute_Gameplay_Sheet_43
+  - first:
+      213: 6417062761840856932
+    second: Bolt_Brute_Gameplay_Sheet_44
+  - first:
+      213: -3948987120782214951
+    second: Bolt_Brute_Gameplay_Sheet_45
+  - first:
+      213: -3693709867239707351
+    second: Bolt_Brute_Gameplay_Sheet_46
+  - first:
+      213: 3811629833864053845
+    second: Bolt_Brute_Gameplay_Sheet_47
+  - first:
+      213: 3573459025057991000
+    second: Bolt_Brute_Gameplay_Sheet_48
+  - first:
+      213: -5608996102202990296
+    second: Bolt_Brute_Gameplay_Sheet_49
+  - first:
+      213: -1507718982835044936
+    second: Bolt_Brute_Gameplay_Sheet_50
+  - first:
+      213: 7900688450535118098
+    second: Bolt_Brute_Gameplay_Sheet_51
+  - first:
+      213: -8314669436452202649
+    second: Bolt_Brute_Gameplay_Sheet_52
+  - first:
+      213: -4251877796331764943
+    second: Bolt_Brute_Gameplay_Sheet_53
+  - first:
+      213: -4008979826614598966
+    second: Bolt_Brute_Gameplay_Sheet_54
+  - first:
+      213: -9014324385950779038
+    second: Bolt_Brute_Gameplay_Sheet_55
+  - first:
+      213: 3123114047249595012
+    second: Bolt_Brute_Gameplay_Sheet_56
+  - first:
+      213: -4804417762283996385
+    second: Bolt_Brute_Gameplay_Sheet_57
+  - first:
+      213: -182694391302185254
+    second: Bolt_Brute_Gameplay_Sheet_58
+  - first:
+      213: 1441250862488185925
+    second: Bolt_Brute_Gameplay_Sheet_59
+  - first:
+      213: -4676402755509499854
+    second: Bolt_Brute_Gameplay_Sheet_60
+  - first:
+      213: -711998027597495180
+    second: Bolt_Brute_Gameplay_Sheet_61
+  - first:
+      213: 3832557759603214320
+    second: Bolt_Brute_Gameplay_Sheet_62
+  - first:
+      213: 5076397809551375463
+    second: Bolt_Brute_Gameplay_Sheet_63
+  - first:
+      213: 8314001039330521054
+    second: Bolt_Brute_Gameplay_Sheet_64
+  - first:
+      213: 1996316935192180775
+    second: Bolt_Brute_Gameplay_Sheet_65
+  - first:
+      213: -5710816442805025180
+    second: Bolt_Brute_Gameplay_Sheet_66
+  - first:
+      213: 6952045420561412849
+    second: Bolt_Brute_Gameplay_Sheet_67
+  - first:
+      213: -1374184354360991204
+    second: Bolt_Brute_Gameplay_Sheet_68
+  - first:
+      213: -4886573275129238093
+    second: Bolt_Brute_Gameplay_Sheet_69
+  - first:
+      213: 8509560661223323231
+    second: Bolt_Brute_Gameplay_Sheet_70
+  - first:
+      213: -240463072203609287
+    second: Bolt_Brute_Gameplay_Sheet_71
+  - first:
+      213: -1060781886609122
+    second: Bolt_Brute_Gameplay_Sheet_72
+  - first:
+      213: 567034892864647202
+    second: Bolt_Brute_Gameplay_Sheet_73
+  - first:
+      213: -3799352990194296041
+    second: Bolt_Brute_Gameplay_Sheet_74
+  - first:
+      213: -159242650677866699
+    second: Bolt_Brute_Gameplay_Sheet_75
+  - first:
+      213: -3500401406011094129
+    second: Bolt_Brute_Gameplay_Sheet_76
+  - first:
+      213: -3505071920642284023
+    second: Bolt_Brute_Gameplay_Sheet_77
+  - first:
+      213: 1371330055608720221
+    second: Bolt_Brute_Gameplay_Sheet_78
+  - first:
+      213: -8378999308733021387
+    second: Bolt_Brute_Gameplay_Sheet_79
+  - first:
+      213: -1632778057119355553
+    second: Bolt_Brute_Gameplay_Sheet_80
+  - first:
+      213: -2197055043640954456
+    second: Bolt_Brute_Gameplay_Sheet_81
+  - first:
+      213: -2849344984720713745
+    second: Bolt_Brute_Gameplay_Sheet_82
+  - first:
+      213: 7842260994502187105
+    second: Bolt_Brute_Gameplay_Sheet_83
+  - first:
+      213: -3651844637322604534
+    second: Bolt_Brute_Gameplay_Sheet_84
+  - first:
+      213: 8661606868624515587
+    second: Bolt_Brute_Gameplay_Sheet_85
+  - first:
+      213: 6763465329045168542
+    second: Bolt_Brute_Gameplay_Sheet_86
+  - first:
+      213: 5651761246001650325
+    second: Bolt_Brute_Gameplay_Sheet_87
+  - first:
+      213: 961304717679205314
+    second: Bolt_Brute_Gameplay_Sheet_88
+  - first:
+      213: -9082026155698575262
+    second: Bolt_Brute_Gameplay_Sheet_89
+  - first:
+      213: -184877650426630442
+    second: Bolt_Brute_Gameplay_Sheet_90
+  - first:
+      213: -939732424615948118
+    second: Bolt_Brute_Gameplay_Sheet_91
+  - first:
+      213: -3293070601973254753
+    second: Bolt_Brute_Gameplay_Sheet_92
+  - first:
+      213: 1154947440296700318
+    second: Bolt_Brute_Gameplay_Sheet_93
+  - first:
+      213: 3394978276679395372
+    second: Bolt_Brute_Gameplay_Sheet_94
+  - first:
+      213: 1359122980479423144
+    second: Bolt_Brute_Gameplay_Sheet_95
+  - first:
+      213: 1742995010964520075
+    second: Bolt_Brute_Gameplay_Sheet_96
+  - first:
+      213: 5712036321303647064
+    second: Bolt_Brute_Gameplay_Sheet_97
+  - first:
+      213: 4561954716595441364
+    second: Bolt_Brute_Gameplay_Sheet_98
+  - first:
+      213: -6161862403191570560
+    second: Bolt_Brute_Gameplay_Sheet_99
+  - first:
+      213: 6002395077347467086
+    second: Bolt_Brute_Gameplay_Sheet_100
+  - first:
+      213: -1588420224995572766
+    second: Bolt_Brute_Gameplay_Sheet_101
+  - first:
+      213: 138528004985906470
+    second: Bolt_Brute_Gameplay_Sheet_102
+  - first:
+      213: -5968495768983474113
+    second: Bolt_Brute_Gameplay_Sheet_103
+  - first:
+      213: -539547081683238335
+    second: Bolt_Brute_Gameplay_Sheet_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a089a34734f0df0800000000000000
+      internalID: -211876490984813944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e835d5b8af740140800000000000000
+      internalID: 4685009874954041572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d558b37081be2850800000000000000
+      internalID: 6354211289521739224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1122
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6492fe30c67ebb90800000000000000
+      internalID: -7224206184193813393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff49984bb255b3a0800000000000000
+      internalID: -6650318310412300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11f70e4af266d60800000000000000
+      internalID: 7883040582946197955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf4f0997ba53170800000000000000
+      internalID: 8157614838662888955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7415c30c8fd8a62b0800000000000000
+      internalID: -5590499887910465209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3014db003121930800000000000000
+      internalID: 4112370303638766501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44272e49548785950800000000000000
+      internalID: 6438027907572068932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433871c1a15250970800000000000000
+      internalID: 8720417047543513908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f607758afc61a0800000000000000
+      internalID: -6814796684983864880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97954978c338e7a70800000000000000
+      internalID: 8826636615688673657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a899d11f901e4bc0800000000000000
+      internalID: -3797079160441431897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69cb183b2a116500800000000000000
+      internalID: 387619815857834349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc721f59e2bcc10800000000000000
+      internalID: 2074803274865168343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117289dcec88c1a40800000000000000
+      internalID: 5340293679948506897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731915b1db50e890800000000000000
+      internalID: -7430838428916706445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680569daf83ceff70800000000000000
+      internalID: 9223024108761403526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bolt_Brute_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66dee0392e74bd50800000000000000
+      internalID: 6752160456714933866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 05f0be382e7f2444797a3054fd5c9088
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bolt_Brute_Gameplay_Sheet_0: -211876490984813944
+      Bolt_Brute_Gameplay_Sheet_1: 4685009874954041572
+      Bolt_Brute_Gameplay_Sheet_10: 8720417047543513908
+      Bolt_Brute_Gameplay_Sheet_11: -6814796684983864880
+      Bolt_Brute_Gameplay_Sheet_12: 8826636615688673657
+      Bolt_Brute_Gameplay_Sheet_13: -3797079160441431897
+      Bolt_Brute_Gameplay_Sheet_14: 387619815857834349
+      Bolt_Brute_Gameplay_Sheet_15: 2074803274865168343
+      Bolt_Brute_Gameplay_Sheet_16: 5340293679948506897
+      Bolt_Brute_Gameplay_Sheet_17: -7430838428916706445
+      Bolt_Brute_Gameplay_Sheet_18: 9223024108761403526
+      Bolt_Brute_Gameplay_Sheet_19: 6752160456714933866
+      Bolt_Brute_Gameplay_Sheet_2: 6354211289521739224
+      Bolt_Brute_Gameplay_Sheet_3: -7224206184193813393
+      Bolt_Brute_Gameplay_Sheet_4: -6650318310412300290
+      Bolt_Brute_Gameplay_Sheet_5: 7883040582946197955
+      Bolt_Brute_Gameplay_Sheet_6: 8157614838662888955
+      Bolt_Brute_Gameplay_Sheet_7: -5590499887910465209
+      Bolt_Brute_Gameplay_Sheet_8: 4112370303638766501
+      Bolt_Brute_Gameplay_Sheet_9: 6438027907572068932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

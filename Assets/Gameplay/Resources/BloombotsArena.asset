@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a5659f8567811449bd36a30759324a, type: 3}
+  m_Name: BloombotsArena
+  m_EditorClassIdentifier:
+  backdrop: {fileID: 2800000, guid: 02c7a728654c5cd4cb6ac42a0a4594a2, type: 3}
+  props: {fileID: 2800000, guid: 9c024d30a9754c3e899e3f416c8d97f4, type: 3}
+  sheets:
+  - {fileID: 2800000, guid: 7ddbb88b9e439f84a8ab99485a480a99, type: 3}
+  - {fileID: 2800000, guid: c1d727314df66ab4baf54e0cd0733acc, type: 3}
+  - {fileID: 2800000, guid: 38d4bc83dd87d744f9184d18b19f9bdc, type: 3}
+  - {fileID: 2800000, guid: d1805df621fa77f4785e9392ff09329f, type: 3}
+  - {fileID: 2800000, guid: d3d7bb47685ee9446bf8d1432429cac0, type: 3}
+  - {fileID: 2800000, guid: e6926965daf52b64089880f875cc7bd7, type: 3}
+  - {fileID: 2800000, guid: 5431447fdd298594c98a06a3c63edfbf, type: 3}
+  - {fileID: 2800000, guid: b6d3975163bdbc243a88a38b457ac0ef, type: 3}
+  - {fileID: 2800000, guid: e19431470f682424ba79f02c84c50745, type: 3}
+  - {fileID: 2800000, guid: e5d7b63e0edcae546b3ade57ad5dbe7b, type: 3}
+  - {fileID: 2800000, guid: 897ba2b5d0415a44a8defa8224a07f5c, type: 3}
+  - {fileID: 2800000, guid: 744decf2c4b35c14bbcdf9a00b04d324, type: 3}
+  - {fileID: 2800000, guid: c08512f7b1ed9ab46a8f88fd40cba347, type: 3}
+  - {fileID: 2800000, guid: 67d0f1f4eefd4565a23b1fb61042cc7f, type: 3}
+  - {fileID: 2800000, guid: 20bd479f41fa4b7285de84ba6e384031, type: 3}
+  - {fileID: 2800000, guid: c0b29950f55f43aca06a7a779ecd5f41, type: 3}
+  - {fileID: 2800000, guid: 8b89003850ac4b949d75fd4e8cb6e9b3, type: 3}
+  frames: {fileID: 4900000, guid: 25c24329fb084c468db7259132c7c0da, type: 3}
+  rustTitan: {fileID: 21300000, guid: 8bbd3d5ecd9d455692c248dacf01dbd0, type: 3}
+  effectsShader: {fileID: 4800000, guid: cb665037224c83c4ea5da6b25cdf53d8, type: 3}
+  unitMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  artMaterial: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+  header: {fileID: 2403100072, guid: 6588370d01f0468a82b0073ff1cb6f7a, type: 3}
+  uiLabels: {fileID: 11400000, guid: 6f72551ec0185114e89147601ff6822d, type: 2}
+  uiBody: {fileID: 11400000, guid: 2034bd6fd471c8741ae65a508a34fcde, type: 2}
+  productionCast: {fileID: 2800000, guid: 9ac34fc7c5f04268834e90fed476b115, type: 3}

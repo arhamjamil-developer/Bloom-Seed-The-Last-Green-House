@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e2b0be50cc3d7e4449016852527b443b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3670059899858842607
+    second: Bloombots_Card_Icons_Row_Reference_0
+  - first:
+      213: -5160581711837930093
+    second: Bloombots_Card_Icons_Row_Reference_1
+  - first:
+      213: -8750505506671566003
+    second: Bloombots_Card_Icons_Row_Reference_2
+  - first:
+      213: -8421850574146557453
+    second: Bloombots_Card_Icons_Row_Reference_3
+  - first:
+      213: 4957705991618795876
+    second: Bloombots_Card_Icons_Row_Reference_4
+  - first:
+      213: 7104842710520497779
+    second: Bloombots_Card_Icons_Row_Reference_5
+  - first:
+      213: -4474046053072225808
+    second: Bloombots_Card_Icons_Row_Reference_6
+  - first:
+      213: 1207768328723979360
+    second: Bloombots_Card_Icons_Row_Reference_7
+  - first:
+      213: -8370785910570186011
+    second: Bloombots_Card_Icons_Row_Reference_8
+  - first:
+      213: -8195882150149844967
+    second: Bloombots_Card_Icons_Row_Reference_9
+  - first:
+      213: 1482238919355153072
+    second: Bloombots_Card_Icons_Row_Reference_10
+  - first:
+      213: -618300391168986601
+    second: Bloombots_Card_Icons_Row_Reference_11
+  - first:
+      213: 4926556753515688735
+    second: Bloombots_Card_Icons_Row_Reference_12
+  - first:
+      213: -2550636738539887876
+    second: Bloombots_Card_Icons_Row_Reference_13
+  - first:
+      213: 5142158868330842420
+    second: Bloombots_Card_Icons_Row_Reference_14
+  - first:
+      213: 481426043022160813
+    second: Bloombots_Card_Icons_Row_Reference_15
+  - first:
+      213: 2236952176135313453
+    second: Bloombots_Card_Icons_Row_Reference_16
+  - first:
+      213: -7321558344135598497
+    second: Bloombots_Card_Icons_Row_Reference_17
+  - first:
+      213: 7220893323983598315
+    second: Bloombots_Card_Icons_Row_Reference_18
+  - first:
+      213: 8628489661770076221
+    second: Bloombots_Card_Icons_Row_Reference_19
+  - first:
+      213: -3949350289394267981
+    second: Bloombots_Card_Icons_Row_Reference_20
+  - first:
+      213: -9064214746553066915
+    second: Bloombots_Card_Icons_Row_Reference_21
+  - first:
+      213: 9025443684979487098
+    second: Bloombots_Card_Icons_Row_Reference_22
+  - first:
+      213: -6968971328668116451
+    second: Bloombots_Card_Icons_Row_Reference_23
+  - first:
+      213: 8206057101162303711
+    second: Bloombots_Card_Icons_Row_Reference_24
+  - first:
+      213: -3942288994196777017
+    second: Bloombots_Card_Icons_Row_Reference_25
+  - first:
+      213: -1615067304356754734
+    second: Bloombots_Card_Icons_Row_Reference_26
+  - first:
+      213: 4197110558099801571
+    second: Bloombots_Card_Icons_Row_Reference_27
+  - first:
+      213: -8730049007349454411
+    second: Bloombots_Card_Icons_Row_Reference_28
+  - first:
+      213: 7577763758277056626
+    second: Bloombots_Card_Icons_Row_Reference_29
+  - first:
+      213: -4087836850052755915
+    second: Bloombots_Card_Icons_Row_Reference_30
+  - first:
+      213: 6743412708944929311
+    second: Bloombots_Card_Icons_Row_Reference_31
+  - first:
+      213: -6805765538640727706
+    second: Bloombots_Card_Icons_Row_Reference_32
+  - first:
+      213: -3362803348863230979
+    second: Bloombots_Card_Icons_Row_Reference_33
+  - first:
+      213: 2745944237627667292
+    second: Bloombots_Card_Icons_Row_Reference_34
+  - first:
+      213: -9166581719748440854
+    second: Bloombots_Card_Icons_Row_Reference_35
+  - first:
+      213: -1367933591036865813
+    second: Bloombots_Card_Icons_Row_Reference_36
+  - first:
+      213: 6138942589137615733
+    second: Bloombots_Card_Icons_Row_Reference_37
+  - first:
+      213: 4520236072444250866
+    second: Bloombots_Card_Icons_Row_Reference_38
+  - first:
+      213: -4508798842800234452
+    second: Bloombots_Card_Icons_Row_Reference_39
+  - first:
+      213: -8125144756971182043
+    second: Bloombots_Card_Icons_Row_Reference_40
+  - first:
+      213: 2856280753745099356
+    second: Bloombots_Card_Icons_Row_Reference_41
+  - first:
+      213: 1363315753987426323
+    second: Bloombots_Card_Icons_Row_Reference_42
+  - first:
+      213: 4174375799177627202
+    second: Bloombots_Card_Icons_Row_Reference_43
+  - first:
+      213: 7481282557953622998
+    second: Bloombots_Card_Icons_Row_Reference_44
+  - first:
+      213: -1804901295366152102
+    second: Bloombots_Card_Icons_Row_Reference_45
+  - first:
+      213: 1994097290589372635
+    second: Bloombots_Card_Icons_Row_Reference_46
+  - first:
+      213: -8423910548875047161
+    second: Bloombots_Card_Icons_Row_Reference_47
+  - first:
+      213: -2533379698508878709
+    second: Bloombots_Card_Icons_Row_Reference_48
+  - first:
+      213: 6826022119991512704
+    second: Bloombots_Card_Icons_Row_Reference_49
+  - first:
+      213: -7086076571749978678
+    second: Bloombots_Card_Icons_Row_Reference_50
+  - first:
+      213: -1240531540613355377
+    second: Bloombots_Card_Icons_Row_Reference_51
+  - first:
+      213: -8691063375030972714
+    second: Bloombots_Card_Icons_Row_Reference_52
+  - first:
+      213: 8822642621814800076
+    second: Bloombots_Card_Icons_Row_Reference_53
+  - first:
+      213: -4919475507645672574
+    second: Bloombots_Card_Icons_Row_Reference_54
+  - first:
+      213: -7357583708265316998
+    second: Bloombots_Card_Icons_Row_Reference_55
+  - first:
+      213: -4398255184430664213
+    second: Bloombots_Card_Icons_Row_Reference_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bloombots_Card_Icons_Row_Reference_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 436
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fd7bb80caee230800000000000000
+      internalID: 3670059899858842607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloombots_Card_Icons_Row_Reference_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 386
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd587664ee168b0800000000000000
+      internalID: -5160581711837930093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloombots_Card_Icons_Row_Reference_2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 368
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43edb59a95ff8680800000000000000
+      internalID: -8750505506671566003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloombots_Card_Icons_Row_Reference_3
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 322
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9239016839f1b80800000000000000
+      internalID: -8421850574146557453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloombots_Card_Icons_Row_Reference_4
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 382
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3601093aab8d468be492801d589fe
+      internalID: 4957705991618795876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus Guard Portrait
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 396
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c169205623d6eb4bbb7706c19a3caa9
+      internalID: 1541817771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pea Pulser Portrait
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 176
+        width: 375
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e922ab517f89448c3fe9cd33dae7d
+      internalID: -352473459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lotus Frost Portrait
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 176
+        width: 373
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521bcb8da67ff54d8e0b3108e47dedf
+      internalID: -727964910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Mortar Portrait
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 175
+        width: 340
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eef8335ca2d90499a82250a5cbcd33
+      internalID: -414470594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunflower Healer Portrait
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 175
+        width: 394
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c471f2b307d21e46805dbcdeee904a0
+      internalID: -1867268281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c777615d2500cd44b76e4246b460633
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bloombots_Card_Icons_Row_Reference_0: 3670059899858842607
+      Bloombots_Card_Icons_Row_Reference_1: -5160581711837930093
+      Bloombots_Card_Icons_Row_Reference_2: -8750505506671566003
+      Bloombots_Card_Icons_Row_Reference_3: -8421850574146557453
+      Bloombots_Card_Icons_Row_Reference_4: 4957705991618795876
+      Cactus Guard Portrait: 1541817771
+      Lotus Frost Portrait: -727964910
+      Mushroom Mortar Portrait: -414470594
+      Pea Pulser Portrait: -352473459
+      Sunflower Healer Portrait: -1867268281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

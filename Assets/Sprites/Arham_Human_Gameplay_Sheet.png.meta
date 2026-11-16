@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 38d4bc83dd87d744f9184d18b19f9bdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6454032994423594114
+    second: Arham_Human_Gameplay_Sheet_0
+  - first:
+      213: -2562377625437398434
+    second: Arham_Human_Gameplay_Sheet_1
+  - first:
+      213: -4714766799181208595
+    second: Arham_Human_Gameplay_Sheet_2
+  - first:
+      213: -8523689398128656666
+    second: Arham_Human_Gameplay_Sheet_3
+  - first:
+      213: -6211836028933693824
+    second: Arham_Human_Gameplay_Sheet_4
+  - first:
+      213: 1699630279814261172
+    second: Arham_Human_Gameplay_Sheet_5
+  - first:
+      213: -604623091895001525
+    second: Arham_Human_Gameplay_Sheet_6
+  - first:
+      213: 4935214678435412143
+    second: Arham_Human_Gameplay_Sheet_7
+  - first:
+      213: 3917069091055333410
+    second: Arham_Human_Gameplay_Sheet_8
+  - first:
+      213: -2228268165381686745
+    second: Arham_Human_Gameplay_Sheet_9
+  - first:
+      213: -9161951014494814137
+    second: Arham_Human_Gameplay_Sheet_10
+  - first:
+      213: -8997119548564905663
+    second: Arham_Human_Gameplay_Sheet_11
+  - first:
+      213: -1685201754846906927
+    second: Arham_Human_Gameplay_Sheet_12
+  - first:
+      213: -8053308265621527892
+    second: Arham_Human_Gameplay_Sheet_13
+  - first:
+      213: 8098991939258621267
+    second: Arham_Human_Gameplay_Sheet_14
+  - first:
+      213: -1428124140038757782
+    second: Arham_Human_Gameplay_Sheet_15
+  - first:
+      213: -2949186869947037298
+    second: Arham_Human_Gameplay_Sheet_16
+  - first:
+      213: 7544252296502799260
+    second: Arham_Human_Gameplay_Sheet_17
+  - first:
+      213: -2151495309184950905
+    second: Arham_Human_Gameplay_Sheet_18
+  - first:
+      213: 5491785022625416377
+    second: Arham_Human_Gameplay_Sheet_19
+  - first:
+      213: 4682438649688788782
+    second: Arham_Human_Gameplay_Sheet_20
+  - first:
+      213: 6814450995277681807
+    second: Arham_Human_Gameplay_Sheet_21
+  - first:
+      213: -1069131157676602574
+    second: Arham_Human_Gameplay_Sheet_22
+  - first:
+      213: 7672466272950260598
+    second: Arham_Human_Gameplay_Sheet_23
+  - first:
+      213: 2226739331433326062
+    second: Arham_Human_Gameplay_Sheet_24
+  - first:
+      213: -1263821596395364020
+    second: Arham_Human_Gameplay_Sheet_25
+  - first:
+      213: -4274938889810039162
+    second: Arham_Human_Gameplay_Sheet_26
+  - first:
+      213: 2547507845920348176
+    second: Arham_Human_Gameplay_Sheet_27
+  - first:
+      213: 8010182877650068307
+    second: Arham_Human_Gameplay_Sheet_28
+  - first:
+      213: -6773168633797375718
+    second: Arham_Human_Gameplay_Sheet_29
+  - first:
+      213: 5516474663758724844
+    second: Arham_Human_Gameplay_Sheet_30
+  - first:
+      213: 935050370812465901
+    second: Arham_Human_Gameplay_Sheet_31
+  - first:
+      213: -1266286185419850238
+    second: Arham_Human_Gameplay_Sheet_32
+  - first:
+      213: 1279222757685064609
+    second: Arham_Human_Gameplay_Sheet_33
+  - first:
+      213: -5064172873552373764
+    second: Arham_Human_Gameplay_Sheet_34
+  - first:
+      213: 1134604821724703621
+    second: Arham_Human_Gameplay_Sheet_35
+  - first:
+      213: 7944412920731945260
+    second: Arham_Human_Gameplay_Sheet_36
+  - first:
+      213: 1845922575429662534
+    second: Arham_Human_Gameplay_Sheet_37
+  - first:
+      213: 4440219988966142104
+    second: Arham_Human_Gameplay_Sheet_38
+  - first:
+      213: 7104217608894622569
+    second: Arham_Human_Gameplay_Sheet_39
+  - first:
+      213: -3920949434873704305
+    second: Arham_Human_Gameplay_Sheet_40
+  - first:
+      213: 3059641560094011217
+    second: Arham_Human_Gameplay_Sheet_41
+  - first:
+      213: 7852565320242248204
+    second: Arham_Human_Gameplay_Sheet_42
+  - first:
+      213: -3523774683825616813
+    second: Arham_Human_Gameplay_Sheet_43
+  - first:
+      213: -5996459867471278408
+    second: Arham_Human_Gameplay_Sheet_44
+  - first:
+      213: 3607830182934843131
+    second: Arham_Human_Gameplay_Sheet_45
+  - first:
+      213: 8577637423473964885
+    second: Arham_Human_Gameplay_Sheet_46
+  - first:
+      213: 88282052497766386
+    second: Arham_Human_Gameplay_Sheet_47
+  - first:
+      213: -4553273614074576703
+    second: Arham_Human_Gameplay_Sheet_48
+  - first:
+      213: 6519544295593195380
+    second: Arham_Human_Gameplay_Sheet_49
+  - first:
+      213: -8500433636121534679
+    second: Arham_Human_Gameplay_Sheet_50
+  - first:
+      213: -7145461457763639188
+    second: Arham_Human_Gameplay_Sheet_51
+  - first:
+      213: -3151012653939364273
+    second: Arham_Human_Gameplay_Sheet_52
+  - first:
+      213: -5971595610325309810
+    second: Arham_Human_Gameplay_Sheet_53
+  - first:
+      213: 6063478913048891099
+    second: Arham_Human_Gameplay_Sheet_54
+  - first:
+      213: 4059953928445400261
+    second: Arham_Human_Gameplay_Sheet_55
+  - first:
+      213: 3194406629252366150
+    second: Arham_Human_Gameplay_Sheet_56
+  - first:
+      213: 8716550246639742730
+    second: Arham_Human_Gameplay_Sheet_57
+  - first:
+      213: 2597333109760394817
+    second: Arham_Human_Gameplay_Sheet_58
+  - first:
+      213: 3232813042342534501
+    second: Arham_Human_Gameplay_Sheet_59
+  - first:
+      213: 5637808107437772320
+    second: Arham_Human_Gameplay_Sheet_60
+  - first:
+      213: -914305937601553634
+    second: Arham_Human_Gameplay_Sheet_61
+  - first:
+      213: 2853850304642080075
+    second: Arham_Human_Gameplay_Sheet_62
+  - first:
+      213: -7679154856114390113
+    second: Arham_Human_Gameplay_Sheet_63
+  - first:
+      213: -8742612953088586408
+    second: Arham_Human_Gameplay_Sheet_64
+  - first:
+      213: -5939724874836476366
+    second: Arham_Human_Gameplay_Sheet_65
+  - first:
+      213: -5984056372272612624
+    second: Arham_Human_Gameplay_Sheet_66
+  - first:
+      213: -6358937966585811357
+    second: Arham_Human_Gameplay_Sheet_67
+  - first:
+      213: -7930314669290363518
+    second: Arham_Human_Gameplay_Sheet_68
+  - first:
+      213: 1182668867013072566
+    second: Arham_Human_Gameplay_Sheet_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 851
+        width: 275
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd44140d4519950800000000000000
+      internalID: 6454032994423594114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1423
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a156f202b907cd0800000000000000
+      internalID: -2562377625437398434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1439
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3aff77398c19eb0800000000000000
+      internalID: -4714766799181208595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1278
+        width: 191
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee37c027a5c5b980800000000000000
+      internalID: -8523689398128656666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1377
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e1f6c1b002bc9a0800000000000000
+      internalID: -6211836028933693824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1361
+        width: 61
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a3d50cbc469710800000000000000
+      internalID: 1699630279814261172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1359
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e99985082fb97f0800000000000000
+      internalID: -604623091895001525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1011
+        width: 255
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8bf662a976d7440800000000000000
+      internalID: 4935214678435412143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1405
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f305b5993c5630800000000000000
+      internalID: 3917069091055333410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 987
+        width: 235
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72afc12d8e99311e0800000000000000
+      internalID: -2228268165381686745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1407
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c18b28163ad080800000000000000
+      internalID: -9161951014494814137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1397
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141e01a707fc32380800000000000000
+      internalID: -8997119548564905663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1337
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53c7bbee5fc98e0800000000000000
+      internalID: -1685201754846906927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1307
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca269e8fcc6ec3090800000000000000
+      internalID: -8053308265621527892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1311
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d134a2246656070800000000000000
+      internalID: 8098991939258621267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1313
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6264d149a84e2ce0800000000000000
+      internalID: -1428124140038757782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1031
+        width: 165
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898f80da226217d0800000000000000
+      internalID: -2949186869947037298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1261
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b69f41e7192b860800000000000000
+      internalID: 7544252296502799260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1239
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d9c185a6a5422e0800000000000000
+      internalID: -2151495309184950905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1219
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b40660a16db63c40800000000000000
+      internalID: 5491785022625416377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1215
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f824da42d5bf040800000000000000
+      internalID: 4682438649688788782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1127
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8455d0631bc19e50800000000000000
+      internalID: 6814450995277681807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1119
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b426860eea921f0800000000000000
+      internalID: -1069131157676602574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1043
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6739d5ebc631a7a60800000000000000
+      internalID: 7672466272950260598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 735
+        width: 252
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56979cf97f6ee10800000000000000
+      internalID: 2226739331433326062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 755
+        width: 164
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41236f34f0067ee0800000000000000
+      internalID: -1263821596395364020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 999
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eae54babd5ca4c0800000000000000
+      internalID: -4274938889810039162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 833
+        width: 61
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0185a9a73e09a5320800000000000000
+      internalID: 2547507845920348176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 738
+        width: 243
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353af3033e2e92f60800000000000000
+      internalID: 8010182877650068307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 767
+        width: 178
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1980ba630fd002a0800000000000000
+      internalID: -6773168633797375718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 945
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef7c9aa747e8c40800000000000000
+      internalID: 5516474663758724844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 887
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2df5fab57f9fc00800000000000000
+      internalID: 935050370812465901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 905
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb0166c6f3d6ee0800000000000000
+      internalID: -1266286185419850238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 897
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f96c0256b0c110800000000000000
+      internalID: 1279222757685064609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 901
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ddb64a9178b9b0800000000000000
+      internalID: -5064172873552373764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 801
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba85fe21deebf00800000000000000
+      internalID: 1134604821724703621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 511
+        width: 185
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c294049c579304e60800000000000000
+      internalID: 7944412920731945260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 759
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647fb5f5dc80e9910800000000000000
+      internalID: 1845922575429662534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 759
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907aeefd84de9d30800000000000000
+      internalID: 4440219988966142104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 509
+        width: 247
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b2d398640479260800000000000000
+      internalID: 7104217608894622569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 657
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f809518534df599c0800000000000000
+      internalID: -3920949434873704305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 465
+        width: 273
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fec69c9c7067a20800000000000000
+      internalID: 3059641560094011217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 727
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a3798dd8ae9fc60800000000000000
+      internalID: 7852565320242248204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 727
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3584f064899091fc0800000000000000
+      internalID: -3523774683825616813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 483
+        width: 221
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be0d79658b48cca0800000000000000
+      internalID: -5996459867471278408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 607
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe83cfaf66911230800000000000000
+      internalID: 3607830182934843131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 663
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55733465ac3e90770800000000000000
+      internalID: 8577637423473964885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 615
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7fb2b1f04a93100800000000000000
+      internalID: 88282052497766386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 621
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00de3b5c58fc0c0800000000000000
+      internalID: -4553273614074576703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 521
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b14caef21a7a50800000000000000
+      internalID: 6519544295593195380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 253
+        width: 207
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f913a25a4680a80800000000000000
+      internalID: -8500433636121534679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 433
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e0c599a836dc90800000000000000
+      internalID: -7145461457763639188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 219
+        width: 191
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eee2f9faa5544d0800000000000000
+      internalID: -3151012653939364273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 87
+        width: 309
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8627486e61a02da0800000000000000
+      internalID: -5971595610325309810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 435
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec95b12fdc52450800000000000000
+      internalID: 6063478913048891099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 175
+        width: 197
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4907d569ad75830800000000000000
+      internalID: 4059953928445400261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 325
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7db497efc45c20800000000000000
+      internalID: 3194406629252366150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 406
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2ecd544867f870800000000000000
+      internalID: 8716550246639742730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14601aab3b49b0420800000000000000
+      internalID: 2597333109760394817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 359
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d931675524ddc20800000000000000
+      internalID: 3232813042342534501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 260
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e45a37a948d3e40800000000000000
+      internalID: 5637808107437772320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 241
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b9a3d089bbf43f0800000000000000
+      internalID: -914305937601553634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 230
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd4525bb9ea9720800000000000000
+      internalID: 2853850304642080075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 231
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf51228592e6590800000000000000
+      internalID: -7679154856114390113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 223
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d0d6ae6dffba680800000000000000
+      internalID: -8742612953088586408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 9
+        width: 179
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ef1d342bbd19da0800000000000000
+      internalID: -5939724874836476366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 161
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa37ce2f6c54fca0800000000000000
+      internalID: -5984056372272612624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 11
+        width: 177
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e68e84c9380c7a0800000000000000
+      internalID: -6358937966585811357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 113
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285e0eb23dcd1f190800000000000000
+      internalID: -7930314669290363518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arham_Human_Gameplay_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 229
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65a39811fa96010800000000000000
+      internalID: 1182668867013072566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arham_Human_Gameplay_Sheet_0: 6454032994423594114
+      Arham_Human_Gameplay_Sheet_1: -2562377625437398434
+      Arham_Human_Gameplay_Sheet_10: -9161951014494814137
+      Arham_Human_Gameplay_Sheet_11: -8997119548564905663
+      Arham_Human_Gameplay_Sheet_12: -1685201754846906927
+      Arham_Human_Gameplay_Sheet_13: -8053308265621527892
+      Arham_Human_Gameplay_Sheet_14: 8098991939258621267
+      Arham_Human_Gameplay_Sheet_15: -1428124140038757782
+      Arham_Human_Gameplay_Sheet_16: -2949186869947037298
+      Arham_Human_Gameplay_Sheet_17: 7544252296502799260
+      Arham_Human_Gameplay_Sheet_18: -2151495309184950905
+      Arham_Human_Gameplay_Sheet_19: 5491785022625416377
+      Arham_Human_Gameplay_Sheet_2: -4714766799181208595
+      Arham_Human_Gameplay_Sheet_20: 4682438649688788782
+      Arham_Human_Gameplay_Sheet_21: 6814450995277681807
+      Arham_Human_Gameplay_Sheet_22: -1069131157676602574
+      Arham_Human_Gameplay_Sheet_23: 7672466272950260598
+      Arham_Human_Gameplay_Sheet_24: 2226739331433326062
+      Arham_Human_Gameplay_Sheet_25: -1263821596395364020
+      Arham_Human_Gameplay_Sheet_26: -4274938889810039162
+      Arham_Human_Gameplay_Sheet_27: 2547507845920348176
+      Arham_Human_Gameplay_Sheet_28: 8010182877650068307
+      Arham_Human_Gameplay_Sheet_29: -6773168633797375718
+      Arham_Human_Gameplay_Sheet_3: -8523689398128656666
+      Arham_Human_Gameplay_Sheet_30: 5516474663758724844
+      Arham_Human_Gameplay_Sheet_31: 935050370812465901
+      Arham_Human_Gameplay_Sheet_32: -1266286185419850238
+      Arham_Human_Gameplay_Sheet_33: 1279222757685064609
+      Arham_Human_Gameplay_Sheet_34: -5064172873552373764
+      Arham_Human_Gameplay_Sheet_35: 1134604821724703621
+      Arham_Human_Gameplay_Sheet_36: 7944412920731945260
+      Arham_Human_Gameplay_Sheet_37: 1845922575429662534
+      Arham_Human_Gameplay_Sheet_38: 4440219988966142104
+      Arham_Human_Gameplay_Sheet_39: 7104217608894622569
+      Arham_Human_Gameplay_Sheet_4: -6211836028933693824
+      Arham_Human_Gameplay_Sheet_40: -3920949434873704305
+      Arham_Human_Gameplay_Sheet_41: 3059641560094011217
+      Arham_Human_Gameplay_Sheet_42: 7852565320242248204
+      Arham_Human_Gameplay_Sheet_43: -3523774683825616813
+      Arham_Human_Gameplay_Sheet_44: -5996459867471278408
+      Arham_Human_Gameplay_Sheet_45: 3607830182934843131
+      Arham_Human_Gameplay_Sheet_46: 8577637423473964885
+      Arham_Human_Gameplay_Sheet_47: 88282052497766386
+      Arham_Human_Gameplay_Sheet_48: -4553273614074576703
+      Arham_Human_Gameplay_Sheet_49: 6519544295593195380
+      Arham_Human_Gameplay_Sheet_5: 1699630279814261172
+      Arham_Human_Gameplay_Sheet_50: -8500433636121534679
+      Arham_Human_Gameplay_Sheet_51: -7145461457763639188
+      Arham_Human_Gameplay_Sheet_52: -3151012653939364273
+      Arham_Human_Gameplay_Sheet_53: -5971595610325309810
+      Arham_Human_Gameplay_Sheet_54: 6063478913048891099
+      Arham_Human_Gameplay_Sheet_55: 4059953928445400261
+      Arham_Human_Gameplay_Sheet_56: 3194406629252366150
+      Arham_Human_Gameplay_Sheet_57: 8716550246639742730
+      Arham_Human_Gameplay_Sheet_58: 2597333109760394817
+      Arham_Human_Gameplay_Sheet_59: 3232813042342534501
+      Arham_Human_Gameplay_Sheet_6: -604623091895001525
+      Arham_Human_Gameplay_Sheet_60: 5637808107437772320
+      Arham_Human_Gameplay_Sheet_61: -914305937601553634
+      Arham_Human_Gameplay_Sheet_62: 2853850304642080075
+      Arham_Human_Gameplay_Sheet_63: -7679154856114390113
+      Arham_Human_Gameplay_Sheet_64: -8742612953088586408
+      Arham_Human_Gameplay_Sheet_65: -5939724874836476366
+      Arham_Human_Gameplay_Sheet_66: -5984056372272612624
+      Arham_Human_Gameplay_Sheet_67: -6358937966585811357
+      Arham_Human_Gameplay_Sheet_68: -7930314669290363518
+      Arham_Human_Gameplay_Sheet_69: 1182668867013072566
+      Arham_Human_Gameplay_Sheet_7: 4935214678435412143
+      Arham_Human_Gameplay_Sheet_8: 3917069091055333410
+      Arham_Human_Gameplay_Sheet_9: -2228268165381686745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

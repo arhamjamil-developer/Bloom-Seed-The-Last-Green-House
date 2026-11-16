@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: d3d7bb47685ee9446bf8d1432429cac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 607029284525141451
+    second: Cactus_Guard_Gameplay_Sheet_0
+  - first:
+      213: 8278006690642276403
+    second: Cactus_Guard_Gameplay_Sheet_1
+  - first:
+      213: 3732199868915650485
+    second: Cactus_Guard_Gameplay_Sheet_2
+  - first:
+      213: -2759165522729813248
+    second: Cactus_Guard_Gameplay_Sheet_3
+  - first:
+      213: -2537309667993590751
+    second: Cactus_Guard_Gameplay_Sheet_4
+  - first:
+      213: 6677797505008868757
+    second: Cactus_Guard_Gameplay_Sheet_5
+  - first:
+      213: -823119399317754858
+    second: Cactus_Guard_Gameplay_Sheet_6
+  - first:
+      213: 7605190252398455545
+    second: Cactus_Guard_Gameplay_Sheet_7
+  - first:
+      213: -4248256732519416013
+    second: Cactus_Guard_Gameplay_Sheet_8
+  - first:
+      213: -3813592524654026944
+    second: Cactus_Guard_Gameplay_Sheet_9
+  - first:
+      213: 7432680278412962723
+    second: Cactus_Guard_Gameplay_Sheet_10
+  - first:
+      213: -4874486630370225807
+    second: Cactus_Guard_Gameplay_Sheet_11
+  - first:
+      213: -3697169550117628200
+    second: Cactus_Guard_Gameplay_Sheet_12
+  - first:
+      213: 3688103994471268238
+    second: Cactus_Guard_Gameplay_Sheet_13
+  - first:
+      213: 3589770696707332406
+    second: Cactus_Guard_Gameplay_Sheet_14
+  - first:
+      213: 8905801692231810241
+    second: Cactus_Guard_Gameplay_Sheet_15
+  - first:
+      213: -3764051350311291778
+    second: Cactus_Guard_Gameplay_Sheet_16
+  - first:
+      213: 6622318569335056515
+    second: Cactus_Guard_Gameplay_Sheet_17
+  - first:
+      213: 9140337267335672126
+    second: Cactus_Guard_Gameplay_Sheet_18
+  - first:
+      213: -2318141750726988859
+    second: Cactus_Guard_Gameplay_Sheet_19
+  - first:
+      213: -7475967653803473518
+    second: Cactus_Guard_Gameplay_Sheet_20
+  - first:
+      213: 5996686369674888029
+    second: Cactus_Guard_Gameplay_Sheet_21
+  - first:
+      213: 3888332770480960248
+    second: Cactus_Guard_Gameplay_Sheet_22
+  - first:
+      213: -2726813833570890000
+    second: Cactus_Guard_Gameplay_Sheet_23
+  - first:
+      213: -7347060220248320662
+    second: Cactus_Guard_Gameplay_Sheet_24
+  - first:
+      213: 6390946243328439430
+    second: Cactus_Guard_Gameplay_Sheet_25
+  - first:
+      213: 2348124674028521854
+    second: Cactus_Guard_Gameplay_Sheet_26
+  - first:
+      213: 3452589103874532907
+    second: Cactus_Guard_Gameplay_Sheet_27
+  - first:
+      213: -3964800631445405581
+    second: Cactus_Guard_Gameplay_Sheet_28
+  - first:
+      213: -975169305892110893
+    second: Cactus_Guard_Gameplay_Sheet_29
+  - first:
+      213: -4454570241589594464
+    second: Cactus_Guard_Gameplay_Sheet_30
+  - first:
+      213: -263281849458194318
+    second: Cactus_Guard_Gameplay_Sheet_31
+  - first:
+      213: 7378571839543698093
+    second: Cactus_Guard_Gameplay_Sheet_32
+  - first:
+      213: -3524901529536843177
+    second: Cactus_Guard_Gameplay_Sheet_33
+  - first:
+      213: -7050637501793918431
+    second: Cactus_Guard_Gameplay_Sheet_34
+  - first:
+      213: -3209808464024201388
+    second: Cactus_Guard_Gameplay_Sheet_35
+  - first:
+      213: 5753873642951577507
+    second: Cactus_Guard_Gameplay_Sheet_36
+  - first:
+      213: 6706939145267871096
+    second: Cactus_Guard_Gameplay_Sheet_37
+  - first:
+      213: -3681607881160437380
+    second: Cactus_Guard_Gameplay_Sheet_38
+  - first:
+      213: 8539130127142164280
+    second: Cactus_Guard_Gameplay_Sheet_39
+  - first:
+      213: 8755872441180345418
+    second: Cactus_Guard_Gameplay_Sheet_40
+  - first:
+      213: 5541888032394954149
+    second: Cactus_Guard_Gameplay_Sheet_41
+  - first:
+      213: 5823899866158596601
+    second: Cactus_Guard_Gameplay_Sheet_42
+  - first:
+      213: 6365038129462273160
+    second: Cactus_Guard_Gameplay_Sheet_43
+  - first:
+      213: 2775712806963297939
+    second: Cactus_Guard_Gameplay_Sheet_44
+  - first:
+      213: -2092713076942605356
+    second: Cactus_Guard_Gameplay_Sheet_45
+  - first:
+      213: -5115058241161800763
+    second: Cactus_Guard_Gameplay_Sheet_46
+  - first:
+      213: -1014741418557312874
+    second: Cactus_Guard_Gameplay_Sheet_47
+  - first:
+      213: -5513768319422978624
+    second: Cactus_Guard_Gameplay_Sheet_48
+  - first:
+      213: -2276636550110711699
+    second: Cactus_Guard_Gameplay_Sheet_49
+  - first:
+      213: 7241858072957662118
+    second: Cactus_Guard_Gameplay_Sheet_50
+  - first:
+      213: 8697613291136252810
+    second: Cactus_Guard_Gameplay_Sheet_51
+  - first:
+      213: -3307465306268032188
+    second: Cactus_Guard_Gameplay_Sheet_52
+  - first:
+      213: -1784374650834135461
+    second: Cactus_Guard_Gameplay_Sheet_53
+  - first:
+      213: 2335752549668398476
+    second: Cactus_Guard_Gameplay_Sheet_54
+  - first:
+      213: 1525404180268067261
+    second: Cactus_Guard_Gameplay_Sheet_55
+  - first:
+      213: 9099123425992955188
+    second: Cactus_Guard_Gameplay_Sheet_56
+  - first:
+      213: -3208342531187201792
+    second: Cactus_Guard_Gameplay_Sheet_57
+  - first:
+      213: -3182662063033447419
+    second: Cactus_Guard_Gameplay_Sheet_58
+  - first:
+      213: 3393592848336023819
+    second: Cactus_Guard_Gameplay_Sheet_59
+  - first:
+      213: 3103452770165559509
+    second: Cactus_Guard_Gameplay_Sheet_60
+  - first:
+      213: -188289750264453954
+    second: Cactus_Guard_Gameplay_Sheet_61
+  - first:
+      213: -7546178214364112384
+    second: Cactus_Guard_Gameplay_Sheet_62
+  - first:
+      213: 6359980477591676977
+    second: Cactus_Guard_Gameplay_Sheet_63
+  - first:
+      213: 739514775724715167
+    second: Cactus_Guard_Gameplay_Sheet_64
+  - first:
+      213: -8434845304860545581
+    second: Cactus_Guard_Gameplay_Sheet_65
+  - first:
+      213: -6485905957803573707
+    second: Cactus_Guard_Gameplay_Sheet_66
+  - first:
+      213: -2924381895497139053
+    second: Cactus_Guard_Gameplay_Sheet_67
+  - first:
+      213: 1951733666866676197
+    second: Cactus_Guard_Gameplay_Sheet_68
+  - first:
+      213: -1711602908028087759
+    second: Cactus_Guard_Gameplay_Sheet_69
+  - first:
+      213: 3287667829308656852
+    second: Cactus_Guard_Gameplay_Sheet_70
+  - first:
+      213: -6153148926874013963
+    second: Cactus_Guard_Gameplay_Sheet_71
+  - first:
+      213: 5293489070523124237
+    second: Cactus_Guard_Gameplay_Sheet_72
+  - first:
+      213: -2240993362398222186
+    second: Cactus_Guard_Gameplay_Sheet_73
+  - first:
+      213: -1073322750197503236
+    second: Cactus_Guard_Gameplay_Sheet_74
+  - first:
+      213: -2878486303982084447
+    second: Cactus_Guard_Gameplay_Sheet_75
+  - first:
+      213: -2464766125197029013
+    second: Cactus_Guard_Gameplay_Sheet_76
+  - first:
+      213: 1369619574325999768
+    second: Cactus_Guard_Gameplay_Sheet_77
+  - first:
+      213: 3672817863959994356
+    second: Cactus_Guard_Gameplay_Sheet_78
+  - first:
+      213: 6247814519223313954
+    second: Cactus_Guard_Gameplay_Sheet_79
+  - first:
+      213: 8243186434040853023
+    second: Cactus_Guard_Gameplay_Sheet_80
+  - first:
+      213: -3473601345489855597
+    second: Cactus_Guard_Gameplay_Sheet_81
+  - first:
+      213: -9219571750136825190
+    second: Cactus_Guard_Gameplay_Sheet_82
+  - first:
+      213: -3632077791960157004
+    second: Cactus_Guard_Gameplay_Sheet_83
+  - first:
+      213: -2811885039378361092
+    second: Cactus_Guard_Gameplay_Sheet_84
+  - first:
+      213: -8671794682310597251
+    second: Cactus_Guard_Gameplay_Sheet_85
+  - first:
+      213: -29272301958144681
+    second: Cactus_Guard_Gameplay_Sheet_86
+  - first:
+      213: -6126454870666675476
+    second: Cactus_Guard_Gameplay_Sheet_87
+  - first:
+      213: 1997276705189516610
+    second: Cactus_Guard_Gameplay_Sheet_88
+  - first:
+      213: 8061102299895096870
+    second: Cactus_Guard_Gameplay_Sheet_89
+  - first:
+      213: -2969434698482330019
+    second: Cactus_Guard_Gameplay_Sheet_90
+  - first:
+      213: -8552550193462730946
+    second: Cactus_Guard_Gameplay_Sheet_91
+  - first:
+      213: -4196217803351575758
+    second: Cactus_Guard_Gameplay_Sheet_92
+  - first:
+      213: 1975725185492250071
+    second: Cactus_Guard_Gameplay_Sheet_93
+  - first:
+      213: -4748902118876218564
+    second: Cactus_Guard_Gameplay_Sheet_94
+  - first:
+      213: 6104888937285726178
+    second: Cactus_Guard_Gameplay_Sheet_95
+  - first:
+      213: 9071229162778046481
+    second: Cactus_Guard_Gameplay_Sheet_96
+  - first:
+      213: 94203421972828586
+    second: Cactus_Guard_Gameplay_Sheet_97
+  - first:
+      213: 9179086767914182907
+    second: Cactus_Guard_Gameplay_Sheet_98
+  - first:
+      213: 7593760421704054360
+    second: Cactus_Guard_Gameplay_Sheet_99
+  - first:
+      213: -6282833369174488628
+    second: Cactus_Guard_Gameplay_Sheet_100
+  - first:
+      213: -5731132044948861925
+    second: Cactus_Guard_Gameplay_Sheet_101
+  - first:
+      213: -5536532170052165861
+    second: Cactus_Guard_Gameplay_Sheet_102
+  - first:
+      213: 587461389705083124
+    second: Cactus_Guard_Gameplay_Sheet_103
+  - first:
+      213: -7879522318535830395
+    second: Cactus_Guard_Gameplay_Sheet_104
+  - first:
+      213: -7258762137670543581
+    second: Cactus_Guard_Gameplay_Sheet_105
+  - first:
+      213: -8210607952863638347
+    second: Cactus_Guard_Gameplay_Sheet_106
+  - first:
+      213: -750379496165537704
+    second: Cactus_Guard_Gameplay_Sheet_107
+  - first:
+      213: 9123569876162438876
+    second: Cactus_Guard_Gameplay_Sheet_108
+  - first:
+      213: 7833322268885998944
+    second: Cactus_Guard_Gameplay_Sheet_109
+  - first:
+      213: 2905160350682850571
+    second: Cactus_Guard_Gameplay_Sheet_110
+  - first:
+      213: -3453138150767442674
+    second: Cactus_Guard_Gameplay_Sheet_111
+  - first:
+      213: 8520463367391921197
+    second: Cactus_Guard_Gameplay_Sheet_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd61680be99c6800800000000000000
+      internalID: 607029284525141451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1004
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303a04f93361e270800000000000000
+      internalID: 8278006690642276403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1004
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0a79b1007bc330800000000000000
+      internalID: 3732199868915650485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1004
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b3f25639975b9d0800000000000000
+      internalID: -2759165522729813248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7cde8a9290db46a0fd391f5c27ebd
+      internalID: -2537309667993590751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 754
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3528236d77a944b394521df013e08
+      internalID: 6677797505008868757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 754
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8154e902a28b3e438389fd4a263decf
+      internalID: -823119399317754858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 754
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a68d75d8dca84da04d82b0c742517
+      internalID: 7605190252398455545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d28bbec4bdb9b489f64e8fd7a967fb
+      internalID: -4248256732519416013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 504
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf418d94a0ea7cd4794c475ddc5d05ad
+      internalID: -3813592524654026944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 504
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5bc186f54402342b8e83e9531a8c62
+      internalID: 7432680278412962723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 504
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3cdf990cecaa459483104244cd0c7
+      internalID: -4874486630370225807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165f00d91454484384f86e8b4783537
+      internalID: -3697169550117628200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 254
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206a2da515967b34d90c9738205b1116
+      internalID: 3688103994471268238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 254
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63b81e6b47d8d4b996e639bf8d74e4
+      internalID: 3589770696707332406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 254
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2003982c68c49eb48a2516d2431d7d92
+      internalID: 8905801692231810241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae19043bcbe4245be107a898eda720
+      internalID: -3764051350311291778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 4
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ed8b7f5ee0c7488bf804e9f015829
+      internalID: 6622318569335056515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58016fabfd1fe38418d7b33bed547fcc
+      internalID: 9140337267335672126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactus_Guard_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 4
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b4464a04a2f34b93d44f6be3503c5
+      internalID: -2318141750726988859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 04012470663967447b5f2d84d21e93dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":313.0,"y":250.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Cactus_Guard_Gameplay_Sheet_0: 607029284525141451
+      Cactus_Guard_Gameplay_Sheet_1: 8278006690642276403
+      Cactus_Guard_Gameplay_Sheet_10: 7432680278412962723
+      Cactus_Guard_Gameplay_Sheet_11: -4874486630370225807
+      Cactus_Guard_Gameplay_Sheet_12: -3697169550117628200
+      Cactus_Guard_Gameplay_Sheet_13: 3688103994471268238
+      Cactus_Guard_Gameplay_Sheet_14: 3589770696707332406
+      Cactus_Guard_Gameplay_Sheet_15: 8905801692231810241
+      Cactus_Guard_Gameplay_Sheet_16: -3764051350311291778
+      Cactus_Guard_Gameplay_Sheet_17: 6622318569335056515
+      Cactus_Guard_Gameplay_Sheet_18: 9140337267335672126
+      Cactus_Guard_Gameplay_Sheet_19: -2318141750726988859
+      Cactus_Guard_Gameplay_Sheet_2: 3732199868915650485
+      Cactus_Guard_Gameplay_Sheet_3: -2759165522729813248
+      Cactus_Guard_Gameplay_Sheet_4: -2537309667993590751
+      Cactus_Guard_Gameplay_Sheet_5: 6677797505008868757
+      Cactus_Guard_Gameplay_Sheet_6: -823119399317754858
+      Cactus_Guard_Gameplay_Sheet_7: 7605190252398455545
+      Cactus_Guard_Gameplay_Sheet_8: -4248256732519416013
+      Cactus_Guard_Gameplay_Sheet_9: -3813592524654026944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

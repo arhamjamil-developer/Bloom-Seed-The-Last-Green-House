@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 7ddbb88b9e439f84a8ab99485a480a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5664718852677289691
+    second: Dubu_Human_Gameplay_Sheet_0
+  - first:
+      213: -8885510417628256459
+    second: Dubu_Human_Gameplay_Sheet_1
+  - first:
+      213: 1235200895344153364
+    second: Dubu_Human_Gameplay_Sheet_2
+  - first:
+      213: 716260155164135812
+    second: Dubu_Human_Gameplay_Sheet_3
+  - first:
+      213: -1576680559725192326
+    second: Dubu_Human_Gameplay_Sheet_4
+  - first:
+      213: -4147251405223243447
+    second: Dubu_Human_Gameplay_Sheet_5
+  - first:
+      213: 1492001296940422991
+    second: Dubu_Human_Gameplay_Sheet_6
+  - first:
+      213: 8480999601899932414
+    second: Dubu_Human_Gameplay_Sheet_7
+  - first:
+      213: -7329007834740147416
+    second: Dubu_Human_Gameplay_Sheet_8
+  - first:
+      213: -3190381746960691924
+    second: Dubu_Human_Gameplay_Sheet_9
+  - first:
+      213: -4296735002398633143
+    second: Dubu_Human_Gameplay_Sheet_10
+  - first:
+      213: 5985834688907282752
+    second: Dubu_Human_Gameplay_Sheet_11
+  - first:
+      213: 2898289812867997634
+    second: Dubu_Human_Gameplay_Sheet_12
+  - first:
+      213: 3238111501781481184
+    second: Dubu_Human_Gameplay_Sheet_13
+  - first:
+      213: 2626695137339279127
+    second: Dubu_Human_Gameplay_Sheet_14
+  - first:
+      213: -5547194446676039874
+    second: Dubu_Human_Gameplay_Sheet_15
+  - first:
+      213: 4318305521653912063
+    second: Dubu_Human_Gameplay_Sheet_16
+  - first:
+      213: -6989797458294953989
+    second: Dubu_Human_Gameplay_Sheet_17
+  - first:
+      213: -2290155447721276154
+    second: Dubu_Human_Gameplay_Sheet_18
+  - first:
+      213: 1945047630707079586
+    second: Dubu_Human_Gameplay_Sheet_19
+  - first:
+      213: -9124448200331122918
+    second: Dubu_Human_Gameplay_Sheet_20
+  - first:
+      213: -8211949430508465665
+    second: Dubu_Human_Gameplay_Sheet_21
+  - first:
+      213: -1508623326910097587
+    second: Dubu_Human_Gameplay_Sheet_22
+  - first:
+      213: 594042410959392108
+    second: Dubu_Human_Gameplay_Sheet_23
+  - first:
+      213: -423809850587433332
+    second: Dubu_Human_Gameplay_Sheet_24
+  - first:
+      213: 915852376272007412
+    second: Dubu_Human_Gameplay_Sheet_25
+  - first:
+      213: -5021319303373261494
+    second: Dubu_Human_Gameplay_Sheet_26
+  - first:
+      213: 6546582567416987945
+    second: Dubu_Human_Gameplay_Sheet_27
+  - first:
+      213: -5955448389971715079
+    second: Dubu_Human_Gameplay_Sheet_28
+  - first:
+      213: -1855602383098825891
+    second: Dubu_Human_Gameplay_Sheet_29
+  - first:
+      213: -1535200162119909857
+    second: Dubu_Human_Gameplay_Sheet_30
+  - first:
+      213: -7608824162461374425
+    second: Dubu_Human_Gameplay_Sheet_31
+  - first:
+      213: 8212966899963790613
+    second: Dubu_Human_Gameplay_Sheet_32
+  - first:
+      213: 560483266939410193
+    second: Dubu_Human_Gameplay_Sheet_33
+  - first:
+      213: 3758737097586483685
+    second: Dubu_Human_Gameplay_Sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 1024
+        height: 1355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c94698cf1d9e40800000000000000
+      internalID: 5664718852677289691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372c354a5350b480800000000000000
+      internalID: -8885510417628256459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1441
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139b318ba0542110800000000000000
+      internalID: 1235200895344153364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1185
+        width: 21
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4811353f0daa0f900800000000000000
+      internalID: 716260155164135812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1234
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bd05172618e1ae0800000000000000
+      internalID: -1576680559725192326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1232
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941dd6de1d00276c0800000000000000
+      internalID: -4147251405223243447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1215
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475e8c4647a4b410800000000000000
+      internalID: 1492001296940422991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1188
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa8973243092b570800000000000000
+      internalID: 8480999601899932414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b324e74322a4a90800000000000000
+      internalID: -7329007834740147416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 697
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d848a54bc79b3d0800000000000000
+      internalID: -3190381746960691924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 689
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943da08c74eee54c0800000000000000
+      internalID: -4296735002398633143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049878c6fe4f11350800000000000000
+      internalID: 5985834688907282752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5120aa3bc83820800000000000000
+      internalID: 2898289812867997634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 453
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bace214510fc20800000000000000
+      internalID: 3238111501781481184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7178a528f45e37420800000000000000
+      internalID: 2626695137339279127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 174
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ead18a086403b0800000000000000
+      internalID: -5547194446676039874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 291
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff11ac91ef3bdeb30800000000000000
+      internalID: 4318305521653912063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 140
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a666ce304ffe90800000000000000
+      internalID: -6989797458294953989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc52a01cbb730e0800000000000000
+      internalID: -2290155447721276154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 210
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b28bc3823efa10800000000000000
+      internalID: 1945047630707079586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 180
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17afc784b27f5180800000000000000
+      internalID: -9124448200331122918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 207
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff15211708b490e80800000000000000
+      internalID: -8211949430508465665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d7a3c31b401be0800000000000000
+      internalID: -1508623326910097587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d40c6ec667e3800800000000000000
+      internalID: 594042410959392108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 198
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86bc63bf235e1af0800000000000000
+      internalID: -423809850587433332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 183
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f36242e2c5bc00800000000000000
+      internalID: 915852376272007412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 289
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ff9a92b0b05ab0800000000000000
+      internalID: -5021319303373261494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 191
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92187a7e8222ada50800000000000000
+      internalID: 6546582567416987945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 5
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb509d1e3ff95da0800000000000000
+      internalID: -5955448389971715079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53b607c6739f36e0800000000000000
+      internalID: -1855602383098825891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 262
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e78bd169fd1bae0800000000000000
+      internalID: -1535200162119909857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 103
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728a41eccb6086690800000000000000
+      internalID: -7608824162461374425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 134
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5150260a1e15af170800000000000000
+      internalID: 8212966899963790613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117597ccf8c37c700800000000000000
+      internalID: 560483266939410193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dubu_Human_Gameplay_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 81
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a9b1c977b92430800000000000000
+      internalID: 3758737097586483685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dubu_Human_Gameplay_Sheet_0: 5664718852677289691
+      Dubu_Human_Gameplay_Sheet_1: -8885510417628256459
+      Dubu_Human_Gameplay_Sheet_10: -4296735002398633143
+      Dubu_Human_Gameplay_Sheet_11: 5985834688907282752
+      Dubu_Human_Gameplay_Sheet_12: 2898289812867997634
+      Dubu_Human_Gameplay_Sheet_13: 3238111501781481184
+      Dubu_Human_Gameplay_Sheet_14: 2626695137339279127
+      Dubu_Human_Gameplay_Sheet_15: -5547194446676039874
+      Dubu_Human_Gameplay_Sheet_16: 4318305521653912063
+      Dubu_Human_Gameplay_Sheet_17: -6989797458294953989
+      Dubu_Human_Gameplay_Sheet_18: -2290155447721276154
+      Dubu_Human_Gameplay_Sheet_19: 1945047630707079586
+      Dubu_Human_Gameplay_Sheet_2: 1235200895344153364
+      Dubu_Human_Gameplay_Sheet_20: -9124448200331122918
+      Dubu_Human_Gameplay_Sheet_21: -8211949430508465665
+      Dubu_Human_Gameplay_Sheet_22: -1508623326910097587
+      Dubu_Human_Gameplay_Sheet_23: 594042410959392108
+      Dubu_Human_Gameplay_Sheet_24: -423809850587433332
+      Dubu_Human_Gameplay_Sheet_25: 915852376272007412
+      Dubu_Human_Gameplay_Sheet_26: -5021319303373261494
+      Dubu_Human_Gameplay_Sheet_27: 6546582567416987945
+      Dubu_Human_Gameplay_Sheet_28: -5955448389971715079
+      Dubu_Human_Gameplay_Sheet_29: -1855602383098825891
+      Dubu_Human_Gameplay_Sheet_3: 716260155164135812
+      Dubu_Human_Gameplay_Sheet_30: -1535200162119909857
+      Dubu_Human_Gameplay_Sheet_31: -7608824162461374425
+      Dubu_Human_Gameplay_Sheet_32: 8212966899963790613
+      Dubu_Human_Gameplay_Sheet_33: 560483266939410193
+      Dubu_Human_Gameplay_Sheet_34: 3758737097586483685
+      Dubu_Human_Gameplay_Sheet_4: -1576680559725192326
+      Dubu_Human_Gameplay_Sheet_5: -4147251405223243447
+      Dubu_Human_Gameplay_Sheet_6: 1492001296940422991
+      Dubu_Human_Gameplay_Sheet_7: 8480999601899932414
+      Dubu_Human_Gameplay_Sheet_8: -7329007834740147416
+      Dubu_Human_Gameplay_Sheet_9: -3190381746960691924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
